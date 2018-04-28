@@ -1,0 +1,999 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: colissimo-delivery-integration\n"
+"POT-Creation-Date: 2017-01-28 15:14+0100\n"
+"PO-Revision-Date: 2016-07-26 23:12+0200\n"
+"Last-Translator: harasse <colissimodeliveryintegration@gmail.com>\n"
+"Language-Team: Harasse <colissimodeliveryintegration@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: colissimo-delivery-integration\n"
+
+#: colissimo-delivery-integration/colissimo-delivery-integration.php:29
+msgid "Colissimo Delivery Integration"
+msgstr ""
+
+#: colissimo-delivery-integration/colissimo-delivery-integration.php:30
+msgid "Easy Colissimo Services with WooCommerce."
+msgstr ""
+
+#: colissimo-delivery-integration/colissimo-delivery-integration.php:116
+msgid "Do you need some help?"
+msgstr ""
+
+#: colissimo-delivery-integration/colissimo-delivery-integration.php:121
+msgid "Your personalized support !"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Bulk-Colissimo.php:26
+#: colissimo-delivery-integration/includes/WC-Action-Bulk-Colissimo.php:27
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:33
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:46
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:59
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:65
+msgid "Colissimo"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Orderlist-Colissimo.php:124
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:34
+msgid "Waiting"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Orderlist-Colissimo.php:124
+msgid "Waiting - Can be filed in the Colissimo gateway."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Orderlist-Colissimo.php:125
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:34
+msgid "Deposited"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Orderlist-Colissimo.php:125
+msgid "Filed in Colissimo gateway - Is pending for processing."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Orderlist-Colissimo.php:126
+msgid "In truck"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Action-Orderlist-Colissimo.php:126
+msgid "In truck - Parcel is on the road and carrier is in charge."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Frontend-Colissimo.php:34
+#: colissimo-delivery-integration/includes/WC-Frontend-Colissimo.php:55
+msgid "Pickup location : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:39
+msgid "Colissimo Delivery Integration - Gateway"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:40
+msgid "Manage your Colissimo parcels"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:43
+msgid " parcels registered"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:61
+msgid " parcels have been removed successfully."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:76
+msgid "Order id not in the list."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:92
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:109
+msgid "Orders id"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:94
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:111
+msgid "Tracking code"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:97
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:114
+msgid "Partner number"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:100
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:117
+msgid "Url Labels"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:126
+msgid "No parcel have been registered in the gateway."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:145
+msgid "To remove parcels (caution !) ...... "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:146
+msgid "Are you sure you want to delete ?"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:146
+msgid "Remove Selected"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:146
+msgid ""
+"Necessary when auto clean of Colissimo parcels has not been set in settings. "
+"Your Colissimo parcels can be remove at the end of a gateway session (i.e. "
+"after sending parcels to Colissimo, collecting the tracking codes, and "
+"copying them in the gateway). Afterward, a new list of Colissimo parcels can "
+"be prepared for a new gateway session."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:148
+msgid "To include/update a tracking code ...... "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:149
+msgid "Order id ..."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:150
+msgid "New tracking code ..."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:151
+msgid "Update tracking code"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:165
+msgid "Choose your gateway to apply :"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:168
+msgid "Manual"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:168
+msgid ""
+"A csv file will be exported. It can be printed to manage parcels to send to "
+"a La Poste branch. It can be used to activate an browser automation  script "
+"for the Colissimo online website (or another carrier). It can be use as "
+"input for a carrier software. The parcel tracking codes will then have to be "
+"manually entered into the gateway panel."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:171
+msgid "Export a csv file."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:175
+msgid "Online"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:175
+msgid ""
+"An iMacros script will be exported. It can be run in your browser connected "
+"at the Colissimo online website. You must be registered and logged in the "
+"Colissimo online service, and you must have registered a defaut expeditor. "
+"After printing of Colissimo labels, the parcels tracking codes will then "
+"have to be manually entered into the gateway panel. It is recommanded to "
+"have no more than 5 parcels in a script."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:178
+msgid "Export an iMacros script to be run with \"Colissimo en ligne\"."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:182
+msgid "Automatic"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:182
+msgid ""
+"The service will be executed in line with Colissimo Web service under soap "
+"protocol. A business contract with La Poste is needed. After printing of "
+"Colissimo labels, the parcel tracking codes will be automatically inserted "
+"into the gateway panel."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:185
+msgid "Run the \"Web Service d’Affranchissement Colissimo\"."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:189
+msgid "Custom"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:189
+msgid ""
+"A custom service will be executed. The filter $cdi_tracking = apply_filters "
+"('cdi_custom_gateway_exec', $cdi_tracking=false , $cdi_nbrorderstodo , "
+"$cdi_rowcurrentorder, $array_for_carrier) is used. $array_for_carrier "
+"contains the datas to process with your software carrier. The parcel "
+"tracking code is returned in $cdi_tracking and will be automatically updated "
+"into the gateway panel. $cdi_nbrorderstodo and $cdi_rowcurrentorder are "
+"respectively the number of orders to process and the rank of the current "
+"order in process."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Gateway-Tab-Colissimo.php:192
+msgid "Run your custom computer program through a filter."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:34
+msgid "Intruck"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:35
+msgid "Status : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:38
+msgid "To : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:40
+msgid "From : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:53
+msgid "Tracking code : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:57
+msgid "Partner number : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:62
+msgid "To Labels :  "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:89
+msgid "Parcel parameters"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:90
+msgid "Parcel : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:94
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:157
+msgid "Standard"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:95
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:158
+msgid "Cumbersome"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:96
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:159
+msgid "Tube"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:103
+msgid "Weight : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:112
+msgid "Optional services"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:118
+msgid "Signature : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:122
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:135
+msgid "yes"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:123
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:136
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:297
+msgid "no"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:131
+msgid "Compensation + : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:144
+msgid "Amount : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:158
+msgid "Return : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:162
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:191
+msgid "No return"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:163
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:192
+msgid "Pay for return"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:173
+msgid "Customer shipping settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:174
+msgid "Forced product code : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:181
+msgid "Pickup location id : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:192
+msgid "Location : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:197
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:54
+msgid "CN23 parameters"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:199
+msgid "CN23 transport : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:208
+msgid "CN23 category : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:212
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:231
+msgid "Gift"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:213
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:232
+msgid "Sample"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:214
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:233
+msgid "Commercial"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:215
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:234
+msgid "Documents"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:216
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:235
+msgid "Other"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:217
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:236
+msgid "Returned goods"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:227
+msgid "Article : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:229
+msgid "CN23 Art descript. : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:236
+msgid "CN23 Art weight : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:245
+msgid "CN23 Art quantity : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:254
+msgid "CN23 Art value : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:278
+msgid "CN23 Art origine : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:290
+msgid "Parcel return"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:291
+msgid "Return days : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:309
+msgid "To return label : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Metabox-Colissimo.php:312
+msgid "Return tracking code : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:53
+msgid "General settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:55
+msgid "Tracking settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:56
+msgid "Automatic Mode"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:57
+msgid "Method referrals"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:58
+msgid "Colissimo method"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:59
+msgid "Parcel return - Béta"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:136
+msgid "Colissimo Delivery Integration - General settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:144
+msgid "Auto clean of Colissimo parcels in gateway when \"In truck\" status"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:150
+msgid "Enable log for debugging purpose"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:154
+msgid "Parcel default settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:162
+msgid "Default Type Parcel"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:167
+msgid ""
+"Default weight (in grams) of empty Colissimo package (net weight of products "
+"will be added)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:173
+msgid "Default Delivery \"contre-signature avec option recommandation\""
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:179
+msgid "Default Additional Compensation ? :"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:185
+msgid "Default Total Amount Compensation in euros"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:195
+msgid "Default Type Return"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:199
+msgid "Colissimo Online Mode (iMacros script)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:202
+msgid ""
+"French departure city - ZIP code & City (Mandatory for Colissimo online)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:208
+msgid "Departure from your own letter box"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:223
+msgid "Colissimo Delivery Integration - CN23 default settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:239
+msgid "Default CN23 Category"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:244
+msgid "Default CN23 Description of article (blank = copied from product order)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:249
+msgid ""
+"Default CN23 Net weight in grams of one article (0 = copied from product "
+"order)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:255
+msgid ""
+"Default CN23 Number of articles in the parcel (0 = copied from product order)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:260
+msgid ""
+"Default CN23 ex VAT Value in € of one article (0 = copied from product order)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:269
+msgid ""
+"Default CN23 HS tariff code- 4 to 6 digits (only if \"Commercial\" category)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:275
+msgid "Default CN23 ISO code of origine country (for Customs)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:289
+msgid "Colissimo Delivery Integration - Tracking settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:298
+msgid "emails"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:299
+msgid "order-views"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:300
+msgid "emails and order-views"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:303
+msgid ""
+"Insert tracking code and pickup location in Customer emails and/or Customer "
+"order views"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:309
+msgid "Order shipped. Your tracking code is : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:310
+msgid "Text preceding tracking code"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:317
+msgid "Url for tracking code"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:332
+msgid "Colissimo Delivery Integration - Automatic Mode (Web Service) settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:338
+msgid "General"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:341
+msgid "Web Service - Contract Number"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:347
+msgid "Web Service - Password"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:353
+msgid "Web Service - Output Format - Offset X in pixels"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:359
+msgid "Web Service - Output Format - Offset Y in pixels"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:373
+msgid "Web Service - Output Format - Printing Type"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:379
+msgid ""
+"Web Service - Offset Deposit Date (estimate in days after running the web "
+"service)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:385
+msgid "Include CN23 customs declarations in returned labels"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:389
+msgid "Sender address"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:392
+msgid ""
+"Web Service - Sender Address - Company Name (May be same as website name)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:398
+msgid "Web Service - Sender Address - Line 1"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:404
+msgid "Web Service - Sender Address - Line 2"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:410
+msgid "Web Service - Sender Address - ZipCode"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:416
+msgid "Web Service - Sender Address - City"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:422
+msgid "Web Service - Sender Address - Country Code"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:428
+msgid "Web Service - Sender Address - Email"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:432
+msgid "Pickup location countries"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:435
+msgid "Web Service - pickup location contry codes (excluding X00 network)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:439
+msgid "Default product codes to use"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:442
+msgid ""
+"Web Service - Product Codes for France (without sign, with sign, pickup "
+"location)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:448
+msgid ""
+"Web Service - Product Codes for Outre Mer (without sign, with sign, pickup "
+"location)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:454
+msgid ""
+"Web Service - Product Codes for International (without sign, with sign, "
+"pickup location)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:458
+msgid "Exception product codes"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:461
+msgid ""
+"Web Service - Comma separated list of \"code_to_replace=new_code_to_use\" "
+"just before the call of Colissimo WS (ex DOM=COLD,DOS=COL)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:476
+msgid "Colissimo Delivery Integration - Method referrals for pickup / product"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:484
+msgid ""
+"Enable Pickup locations / Code products referrals according to current "
+"method shipping chosen."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:491
+msgid ""
+"Optional - Comma separated list of \"Shipping-Method-names = filter-relay\" "
+"which activate the Colissimo pickup location choice process. Filter-relay = "
+"0 or 1 to define type of Colissimo list. May be methods of Colissimo "
+"shipping or external methods. Selection may focus on a specific instance as "
+"\"flat_rate:25=1\" "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:497
+msgid "Pickup location map shown open at entry of selected method."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:504
+msgid ""
+"Optional - Comma separated list of relations \"Method-name = Colissimo-"
+"product-code\" to be use for Colissimo. May be methods of Colissimo shipping "
+"or external methods."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:510
+msgid ""
+"Optional - Comma separated list of shipping method names which are exclusive "
+"of others. The priority is given to the first method matching in the "
+"original woocommerce package list. May be methods of Colissimo shipping or "
+"external methods. Ex: \"colissimo_shippingzone_method_home5, free_shipping\""
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:525
+msgid "Colissimo Delivery Integration - Colissimo method global settings"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:533
+msgid ""
+"Global enabling of Colissimo shipping method (Shipping zone mode) - You must "
+"have installed WooCommerce 2.6 or further to run this shipping method - "
+"Detail of settings must be done in the method [WooCommerce -> Settings -> "
+"Shipping]."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:539
+msgid ""
+"Set shipping method icons in front end - Customization of icons are to do in "
+"plugin images directory (refer to examples for size and type)."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:555
+msgid "Colissimo Delivery Integration - Parcel return settings (Béta)"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:563
+msgid ""
+"Enabling of Colissimo parcel return function. Logged customers will have the "
+"capacity, from their order view, to create and print a Colissimo return "
+"label. This feature requires a Bussiness contract with Colissimo to access "
+"the Web Service Affranchissement."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:569
+msgid ""
+"In case you need to return your parcel, request for a  printable Colissimo "
+"return label : "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:570
+msgid "Text preceding customer parcel return label request in their order view"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:576
+msgid ""
+"Your Colissimo return label is available. Paste it on your parcel. After "
+"printing, you can choose the type of postal deposit you want at :"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:577
+msgid "Text accompanying the parcel return label print button"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:584
+msgid ""
+"Comma separated list of 2 digits headers of Colissimo tracking codes allowed "
+"for a customer parcel return label request "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:590
+msgid ""
+"Number of day after the order creation date+time during whitch a customer "
+"parcel return label request is permited. Setting this number to 0 will "
+"allowed customers to use this function only on a case by case basis after "
+"the admin has changed this value for the order in the Colissimo metabox."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-Settings-Tab-Colissimo.php:596
+msgid "Name of the Company service to whitch the parcels must be returned"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-choix-livraison.php:190
+msgid "Select your pickup locations :"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-choix-livraison.php:195
+msgid "Choose a location"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-choix-livraison.php:466
+msgid "You must select a pickup location. Please try again."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-retourcolis.php:72
+msgid "Print your Colissimo return label"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-retourcolis.php:82
+msgid "Request for a Colissimo return label"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-retourcolis.php:234
+#: colissimo-delivery-integration/includes/WC-colissimo-retourcolis.php:247
+msgid " ===> Return label not available - #"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:47
+msgid "Colissimo multi purpose shipping method"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:52
+msgid "Activate this instance of \"Colissimo shipping method\""
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:56
+msgid "Title"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:58
+msgid "Mandatory - Title shown in admin shipping options"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:62
+msgid "Prefix "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:64
+msgid "Optional - Prefix of shipping title which will be seen by customer."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:72
+msgid "Tax Status"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:77
+msgid "Taxable"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:175
+msgid "France"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:186
+msgid "France - Free"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:197
+msgid "Europe"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:208
+msgid "International"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:219
+msgid "Domicile - sans signature"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:230
+msgid "Domicile - avec signature"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:241
+msgid "Point Retrait – en relais Pickup ou consigne Pickup Station"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:252
+msgid "Point Retrait - à la Poste"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:263
+msgid "International - Variable"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:389
+msgid "Rates"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:395
+msgid "Name"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:396
+msgid "Flat rate"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:397
+msgid "Add fees"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:397
+msgid ""
+"Comma separated list of additionnal fees to add to flat rate. Percentage of "
+"price and/or weight(kg) fee. Syntaxe : p=+2.5%, w=+5 "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:398
+msgid "Shipping class"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:399
+msgid "Method"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:400
+msgid "Min price"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:400
+msgid "minimum price, VAT excluded"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:401
+msgid "Max price"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:401
+msgid "maximum price, VAT excluded"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:402
+msgid "Min weight"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:403
+msgid "Max weight"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:409
+msgid "Add rate"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:410
+msgid "Delete selected"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:414
+msgid "If empty table is saved, examples of methods are shown."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-colissimo-shipping-zone.php:532
+msgid "Delete the selected rates?"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-function-Colissimo.php:26
+msgid ""
+"Your last order(s) completed has no Colissimo tracking code. You can add a "
+"tracking code and send again order completed mail."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-auto.php:257
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-auto.php:270
+msgid " ===> Error stop processing at order #"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-auto.php:277
+msgid " parcels processed with Colissimo Web Service."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-custom.php:58
+msgid " parcels processed ; "
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-custom.php:58
+msgid " tracking codes updated."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-manual.php:78
+msgid " parcels inserted in csv file."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-online.php:187
+msgid "Here we are !"
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-online.php:187
+msgid ""
+"No scripting error? So now you can check and / or change your shipments."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-online.php:187
+msgid "As soon as everything is ok, then go to the Colissimo checkout."
+msgstr ""
+
+#: colissimo-delivery-integration/includes/WC-gateway-colissimo-online.php:195
+msgid " parcels inserted in iMacros script file."
+msgstr ""

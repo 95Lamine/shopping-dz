@@ -1,0 +1,2380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: colissimo-delivery-integration\n"
+"POT-Creation-Date: 2018-04-03 09:09+0200\n"
+"PO-Revision-Date: 2018-04-03 09:09+0200\n"
+"Last-Translator: Harasse\n"
+"Language-Team: Harasse <colissimodeliveryintegration@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: colissimo-delivery-integration.php:29
+msgid "Colissimo Delivery Integration"
+msgstr "Colissimo Delivery Integration"
+
+#: colissimo-delivery-integration.php:30
+msgid "Easy Colissimo Services with WooCommerce."
+msgstr "Colissimo pour WooCommerce ? Facile !"
+
+#: colissimo-delivery-integration.php:185
+msgid "Do you need some help?"
+msgstr "Avez-vous besoin d'aide ?"
+
+#: colissimo-delivery-integration.php:192
+msgid "Your CDI+ premium support !"
+msgstr "Votre support premium CDI+"
+
+#: colissimo-delivery-integration.php:240
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/WC-Action-Bulk-Colissimo.php:26
+#: includes/WC-Action-Bulk-Colissimo.php:27
+#: includes/WC-Settings-Tab-Colissimo.php:48
+#: includes/WC-colissimo-shipping-zone.php:46
+#: includes/WC-colissimo-shipping-zone.php:60
+#: includes/WC-colissimo-shipping-zone.php:66
+msgid "Colissimo"
+msgstr "Colissimo"
+
+#: includes/WC-Action-Orderlist-Colissimo.php:173
+#: includes/WC-Gateway-Tab-Colissimo.php:780
+#: includes/WC-Gateway-Tab-Colissimo.php:940 includes/WC-Metabox-Colissimo
+#: (copie).php:34 includes/WC-Metabox-Colissimo.php:34
+msgid "Waiting"
+msgstr "En attente d'expédition"
+
+#: includes/WC-Action-Orderlist-Colissimo.php:173
+msgid "Waiting - Can be filed in the Colissimo gateway."
+msgstr ""
+"En attente d'expédition - Prêt à être déposé dans la passerelle d'expédition."
+
+#: includes/WC-Action-Orderlist-Colissimo.php:174
+#: includes/WC-Gateway-Tab-Colissimo.php:780
+#: includes/WC-Gateway-Tab-Colissimo.php:940 includes/WC-Metabox-Colissimo
+#: (copie).php:34 includes/WC-Metabox-Colissimo.php:34
+msgid "Deposited"
+msgstr "Déposé dans la passerelle d'expédition"
+
+#: includes/WC-Action-Orderlist-Colissimo.php:174
+msgid "Filed in Colissimo gateway - Is pending for processing."
+msgstr ""
+"Déposé dans la passerelle d'expédition - Prêt à recevoir le traitement "
+"d'expédition."
+
+#: includes/WC-Action-Orderlist-Colissimo.php:175
+msgid "In truck"
+msgstr "Dans le camion"
+
+#: includes/WC-Action-Orderlist-Colissimo.php:175
+msgid "In truck - Parcel is on the road and carrier is in charge."
+msgstr ""
+"Dans le camion -  Le colis a été traité  et est pris en charge par le "
+"transporteur."
+
+#: includes/WC-Frontend-Colissimo.php:47 includes/WC-Frontend-Colissimo.php:76
+msgid "Pickup location : "
+msgstr "Point de retrait : "
+
+#: includes/WC-Frontend-Colissimo.php:85
+msgid "Notes on your order, eg special notes for color, size, ..."
+msgstr ""
+"Message concernant votre commande, ex. spéciales indications sur la couleur, "
+"la taille, ..."
+
+#: includes/WC-Frontend-Colissimo.php:111
+msgid "(*) House number + Name of the way (street, avenue, ...)"
+msgstr "(*) Numéro de la voie + Nom de la voie (rue, avenue, ...)"
+
+#: includes/WC-Frontend-Colissimo.php:112
+msgid "Entrance - Block - Building - Residence"
+msgstr "Entrée - Bloc - Batiment - Résidence"
+
+#: includes/WC-Frontend-Colissimo.php:113
+msgid "Apartment or letter box number - Floor - Corridor - Staircase"
+msgstr "Appartement ou numéro de boite aux lettres - Couloir - Escalier"
+
+#: includes/WC-Frontend-Colissimo.php:118
+msgid "Postal box - Place called"
+msgstr "Boite postale - Lieu dit"
+
+#: includes/WC-Frontend-Colissimo.php:220
+#: includes/WC-Frontend-Colissimo.php:234
+msgid "Address line 3"
+msgstr "Adresse ligne 3"
+
+#: includes/WC-Frontend-Colissimo.php:221
+#: includes/WC-Frontend-Colissimo.php:235
+msgid "Address line 4"
+msgstr "Adresse ligne4"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:60
+msgid "Colissimo Delivery Integration - Shipping Gateway"
+msgstr "Colissimo Delivery Integration - Passerelle d'expédition"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:70
+msgid "Manage your Colissimo parcels"
+msgstr "Gérez vos colis Colissimo"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:73
+msgid " parcel(s) in the gateway."
+msgstr "   colis dans la passerelle d'expédition."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:103
+msgid "Register your changes"
+msgstr "Enregistrer"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:103
+msgid "Save your package tracking code changes."
+msgstr "Enregistrer les codes de suivi qui ont été modifiés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:105
+msgid "Block parcels"
+msgstr "Bloquer"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:105
+msgid ""
+"Block parcels that you temporarily do not want to process in the Colissimo "
+"gateway."
+msgstr ""
+"Débloquez les colis que vous souhaitez temporairement ne pas traiter dans la "
+"passerelle Colissimo."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:106
+msgid "Release parcels"
+msgstr "Libérer"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:106
+msgid "Release parcels that you now want to process in the Colissimo gateway."
+msgstr ""
+"Libérez les colis que vous souhaitez maintenant traiter dans la passerelle "
+"Colissimo."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:107
+msgid "Are you sure you want to delete ?"
+msgstr "Confirmez-vous la suppression ?"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:107
+msgid "Remove parcels"
+msgstr "Supprimer"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:107
+msgid ""
+"Necessary when auto clean of Colissimo parcels has not been set in settings. "
+"Your Colissimo parcels can be remove at the end of a gateway session (i.e. "
+"after sending parcels to Colissimo, collecting the tracking codes, and "
+"copying them in the gateway). Afterward, a new list of Colissimo parcels can "
+"be prepared for a new gateway session."
+msgstr ""
+"Nécessaire quand le nettoyage automatique des colis Colissimo n'a pas été "
+"définie dans les paramètres. Vos colis Colissimo peuvent être enlever à la "
+"fin d'une session de la passerelle (à savoir après l'envoi des colis "
+"Colissimo, la collecte de leur codes de suivi, et leur recopiage dans la "
+"passerelle). Par la suite, une nouvelle liste de colis Colissimo pourra être "
+"préparé pour une nouvelle session de la passerelle."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:118
+msgid "Bulk gateway process"
+msgstr "Traitements par lots de tous vos colis en passerelle."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:119
+msgid ""
+"Here you can have a bulk process your Colissimo parcels : print labels in "
+"your gateway, print cn23 in your gateway, print of gateway shipping log. "
+"Blocked parcels will be ignored."
+msgstr ""
+"Ici vous pouvez  traiter globalement vos colis Colissimo: imprimer toutes "
+"les étiquettes dans votre passerelle, imprimer tous les cn23 dans votre "
+"passerelle, exporter votre journal courant d'expédition. Les colis bloqués "
+"seront ignorés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:123
+msgid "Print gateway labels"
+msgstr "Imprimer les étiquettes"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:128
+msgid "Print gateway cn23"
+msgstr "Imprimer les cn23"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:133
+msgid "Export gateway log"
+msgstr "Journal d'expédition"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:145
+msgid "Delivery history"
+msgstr "Historique des colis expédiés"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:146
+msgid ""
+"Here you can export the log of your parcels already processed. Parcels in "
+"gateway will be ignored."
+msgstr ""
+"Ici vous pouvez exporter l'historique de vos colis déjà expédiés. Les colis "
+"dans la passerelle seront ignorés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:147
+msgid ""
+"The date selector will limit the selection to the last 50 parcels of a range "
+"of up to 30 days. By default, the parcels of the last 10 days are presented."
+msgstr ""
+"Le sélecteur de date limite la sélection aux 50 derniers colis d'une période "
+"limitée aux 30 derniers jours. Par défaut, les colis des 10 derniers jours "
+"sont présentés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:156
+msgid "Export parcels log"
+msgstr "Historique colis expédiés"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:176
+msgid "Submit your parcels at your choice :"
+msgstr "Soumettez vos colis à Colissimo avec le mode de votre choix :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:180
+msgid "Manual"
+msgstr "Manuel"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:181
+msgid ""
+"A csv file will be exported. It can be printed to manage parcels to send to "
+"a La Poste branch. It can be used to activate an browser automation  script "
+"for the Colissimo online website (or another carrier). It can be use as "
+"input for a carrier software. The parcel tracking codes will then have to be "
+"manually entered into the gateway panel."
+msgstr ""
+"Un fichier csv sera exporté. Il pourra être imprimé pour gérer les colis à "
+"envoyer à une agence de La Poste. Il pourra également être utilisé pour "
+"activer un script de navigateur pour le site Colissimo  en ligne (ou un "
+"autre transporteur). Il pourra être utilisé également comme entrée pour un "
+"logiciel de transporteur. Les codes de suivi des colis devront ensuite être "
+"saisis manuellement dans la passerelle."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:184
+msgid "Export a csv file."
+msgstr "Exporte un fichier CSV."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:189
+msgid "Online"
+msgstr "En ligne"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:190
+msgid ""
+"An iMacros script will be exported. It can be run in your browser connected "
+"at the Colissimo online website. You must be registered and logged in the "
+"Colissimo online service, and you must have registered a defaut expeditor. "
+"After printing of Colissimo labels, the parcels tracking codes will then "
+"have to be manually entered into the gateway panel. It is recommanded to "
+"have no more than 5 parcels in a script."
+msgstr ""
+"Un script iMacros sera exporté. Il pourra être exécuté dans votre navigateur "
+"connecté à Colissimo en ligne. Vous devez être inscrit et connecté au "
+"service  Colissimo en ligne, et vous devez y avoir enregistré un expéditeur "
+"par defaut. Après l'impression des étiquettes Colissimo, les codes de suivi "
+"des colis devront alors être saisies manuellement dans le panneau de la "
+"passerelle. Il est conseillé de ne pas avoir plus de 5 colis dans un script."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:194
+msgid "Export an iMacros script to be run with \"Colissimo en ligne\"."
+msgstr "Exporte un script iMacros à exécuter sur  \"Colissimo en ligne\"."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:199
+msgid "Coliship"
+msgstr "Coliship"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:200
+msgid ""
+"An iMacros script for Coliship will be exported. It can be run in your "
+"browser connected at the Coliship website. You must be registered and logged "
+"in Coliship service. After printing of Colissimo labels, the parcels "
+"tracking codes will then have to be manually entered into the gateway panel. "
+"It is recommanded to have no more than 5 parcels in a script."
+msgstr ""
+"Un script iMacros pour Coliship sera exporté. Il peut être exécuté dans "
+"votre navigateur connecté sur le site Coliship. Vous devez être enregistré "
+"et connecté au service Coliship. Après l'impression des étiquettes "
+"Colissimo, les codes de suivi des colis devront être saisis manuellement "
+"dans la passerelle. Il est recommandé de ne pas avoir plus de 5 colis dans "
+"un script."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:204
+msgid "Run the \"Coliship\" service."
+msgstr "Exporte un script iMacros à exécuter sur  le service \"Coliship\"."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:209
+msgid "Automatic"
+msgstr "Automatique"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:210
+msgid ""
+"The service will be executed in line with Colissimo Web service under soap "
+"protocol. A business contract with La Poste is needed. After printing of "
+"Colissimo labels, the parcel tracking codes will be automatically inserted "
+"into the gateway panel."
+msgstr ""
+"Le service sera exécuté avec le  Web Service d’Affranchissement Colissimo. "
+"Un contrat Entreprise avec La Poste est nécessaire. Après l'impression des "
+"étiquettes Colissimo, les codes de suivi des colis et autres informations "
+"seront automatiquement insérés dans le panneau de la passerelle."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:213
+msgid "Run the \"Web Service d’Affranchissement Colissimo\"."
+msgstr "Exécute le \"Web Service d’Affranchissement Colissimo\"."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:218
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:219
+msgid ""
+"A custom service will be executed. The filter $cdi_tracking = apply_filters "
+"('cdi_custom_gateway_exec', $cdi_tracking=false , $cdi_nbrorderstodo , "
+"$cdi_rowcurrentorder, $array_for_carrier) is used. $array_for_carrier "
+"contains the datas to process with your software carrier. The parcel "
+"tracking code is returned in $cdi_tracking and will be automatically updated "
+"into the gateway panel. $cdi_nbrorderstodo and $cdi_rowcurrentorder are "
+"respectively the number of orders to process and the rank of the current "
+"order in process."
+msgstr ""
+"Votre programme personnalisé sera exécuté. Le filtre $cdi_tracking = "
+"apply_filters ('cdi_custom_gateway_exec', $cdi_tracking = false, "
+"$cdi_nbrorderstodo, $cdi_rowcurrentorder, $array_for_carrier) est utilisé. "
+"$Array_for_carrier contient les données à traiter avec le  logiciel de votre "
+"transporteur. Le informations de suivi des colis sont retournées dans "
+"$cdi_tracking et seront automatiquement mises à jour dans le panneau de la "
+"passerelle. $Cdi_nbrorderstodo et $cdi_rowcurrentorder sont respectivement "
+"le nombre de commandes à traiter et le rang de l'ordre actuel dans le "
+"processus."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:222
+msgid "Run your custom computer program through a filter."
+msgstr "Exécute votre programme personnalisé."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:227
+msgid "Addresses printing"
+msgstr "Etiquettes"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:228
+msgid ""
+"A pdf file with address labels will be exported. It can be printed for "
+"parcels or letters to send throught the carrier chosen. The parcel tracking "
+"codes will have to be manually entered into the gateway panel."
+msgstr ""
+"Un fichier pdf avec des étiquettes d'adresse sera exporté. Il peut être "
+"imprimé pour être utiliser sur les colis ou les lettres à envoyer à travers "
+"le transporteur choisi. Les codes de suivi des colis devront être saisis "
+"manuellement dans le panneau de passerelle."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:231
+msgid "Print address labels."
+msgstr "Imprime des étiquettes adresse."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:263
+msgid " parcel(s) have been freezed."
+msgstr " colis ont été bloqués."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:283
+msgid " parcel(s) have been unfreezed."
+msgstr " colis ont été libérés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:307
+msgid " tracking code(s) have been changed."
+msgstr "  code(s) de suivi ont été modifiés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:327
+msgid " parcels have been removed successfully."
+msgstr "  colis ont été supprimés."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:577
+#: includes/WC-Gateway-Tab-Colissimo.php:591
+msgid "Parcel"
+msgstr "Colis"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:578
+msgid "Order"
+msgstr "Commande"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:579
+#: includes/WC-Gateway-Tab-Colissimo.php:592
+msgid "Destination"
+msgstr "Destination"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:580
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:581
+#: includes/WC-Gateway-Tab-Colissimo.php:593
+msgid "Tracking code"
+msgstr "Code de suivi"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:594
+msgid "Url Labels"
+msgstr "Url vers étiquettes"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:611
+msgid "No parcel have been registered in the gateway."
+msgstr "Aucun colis enregistré dans la passerelle d'expédition."
+
+#: includes/WC-Gateway-Tab-Colissimo.php:780
+#: includes/WC-Gateway-Tab-Colissimo.php:940 includes/WC-Metabox-Colissimo
+#: (copie).php:34 includes/WC-Metabox-Colissimo.php:34
+msgid "Intruck"
+msgstr "Dans le camion"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:786
+msgid "More details in CDI Metabox"
+msgstr "Details dans la  Metabox CDI"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:791 includes/WC-Metabox-Colissimo
+#: (copie).php:47 includes/WC-Metabox-Colissimo.php:47
+msgid "From : "
+msgstr "De :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:793 includes/WC-Metabox-Colissimo
+#: (copie).php:45 includes/WC-Metabox-Colissimo.php:45
+msgid "To : "
+msgstr "Vers :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:798 includes/WC-Metabox-Colissimo
+#: (copie).php:59 includes/WC-Metabox-Colissimo.php:59
+msgid "Tracking code : "
+msgstr "Code de suivi :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:804 includes/WC-Metabox-Colissimo
+#: (copie).php:69 includes/WC-Metabox-Colissimo.php:69
+msgid "Partner number : "
+msgstr "Partenaire ref : "
+
+#: includes/WC-Gateway-Tab-Colissimo.php:808 includes/WC-Metabox-Colissimo
+#: (copie).php:101 includes/WC-Metabox-Colissimo.php:101
+msgid "Parcel parameters"
+msgstr "Paramétrage des colis :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:810 includes/WC-Metabox-Colissimo
+#: (copie).php:102 includes/WC-Metabox-Colissimo.php:102
+msgid "Parcel : "
+msgstr "Colis :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:812 includes/WC-Metabox-Colissimo
+#: (copie).php:115 includes/WC-Metabox-Colissimo.php:115
+msgid "Weight : "
+msgstr "Poids (g) :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:815 includes/WC-Metabox-Colissimo
+#: (copie).php:124 includes/WC-Metabox-Colissimo.php:124
+msgid "Optional services"
+msgstr "Services optionnels :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:817 includes/WC-Metabox-Colissimo
+#: (copie).php:130 includes/WC-Metabox-Colissimo.php:130
+msgid "Signature : "
+msgstr "Signature :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:819 includes/WC-Metabox-Colissimo
+#: (copie).php:143 includes/WC-Metabox-Colissimo.php:143
+msgid "Compensation + : "
+msgstr "Compensation + :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:821 includes/WC-Metabox-Colissimo
+#: (copie).php:156 includes/WC-Metabox-Colissimo.php:156
+msgid "Amount : "
+msgstr "Montant :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:823
+msgid "Avis réception : "
+msgstr "Avis réception : "
+
+#: includes/WC-Gateway-Tab-Colissimo.php:825 includes/WC-Metabox-Colissimo
+#: (copie).php:184 includes/WC-Metabox-Colissimo.php:184
+msgid "Return : "
+msgstr "Retour :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:827
+msgid "ftd OM : "
+msgstr "ftd OM : "
+
+#: includes/WC-Gateway-Tab-Colissimo.php:830 includes/WC-Metabox-Colissimo
+#: (copie).php:212 includes/WC-Metabox-Colissimo.php:212
+msgid "Customer shipping settings"
+msgstr "Choix de livraison du client "
+
+#: includes/WC-Gateway-Tab-Colissimo.php:832 includes/WC-Metabox-Colissimo
+#: (copie).php:213 includes/WC-Metabox-Colissimo.php:213
+msgid "Forced product code : "
+msgstr "Code produit :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:834 includes/WC-Metabox-Colissimo
+#: (copie).php:220 includes/WC-Metabox-Colissimo.php:220
+msgid "Pickup location id : "
+msgstr "Point de retrait :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:836 includes/WC-Metabox-Colissimo
+#: (copie).php:231 includes/WC-Metabox-Colissimo.php:231
+msgid "Location : "
+msgstr "Adresse :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:839 includes/WC-Metabox-Colissimo
+#: (copie).php:236 includes/WC-Metabox-Colissimo.php:236
+#: includes/WC-Settings-Tab-Colissimo.php:69
+#: includes/WC-Settings-Tab-Colissimo.php:151
+msgid "CN23 parameters"
+msgstr "CN23"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:841 includes/WC-Metabox-Colissimo
+#: (copie).php:238 includes/WC-Metabox-Colissimo.php:238
+msgid "CN23 transport : "
+msgstr "Prix transport HT :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:843 includes/WC-Metabox-Colissimo
+#: (copie).php:247 includes/WC-Metabox-Colissimo.php:247
+msgid "CN23 category : "
+msgstr "Catégorie :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:846 includes/WC-Metabox-Colissimo
+#: (copie).php:329 includes/WC-Metabox-Colissimo.php:329
+#: includes/WC-Settings-Tab-Colissimo.php:74
+#: includes/WC-Settings-Tab-Colissimo.php:166
+msgid "Parcel return"
+msgstr "Retour colis"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:848 includes/WC-Metabox-Colissimo
+#: (copie).php:330 includes/WC-Metabox-Colissimo.php:330
+msgid "Return days : "
+msgstr "Nb jours retour :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:850 includes/WC-Metabox-Colissimo
+#: (copie).php:351 includes/WC-Metabox-Colissimo.php:351
+msgid "Return tracking code : "
+msgstr "Code suivi retour :"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:928
+msgid "Billing details"
+msgstr "Détail de facturation"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:928
+msgid "Email"
+msgstr "Email"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:928
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:928
+msgid "Payment via"
+msgstr "Paiement par"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:929
+msgid "Shipping details"
+msgstr "Détail de livraison"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:929
+msgid "Shipping method"
+msgstr "Méthode de livraison"
+
+#: includes/WC-Gateway-Tab-Colissimo.php:930
+msgid "Customer note"
+msgstr "Note du client"
+
+#: includes/WC-Metabox-Colissimo (copie).php:35
+#: includes/WC-Metabox-Colissimo.php:35
+msgid "Status : "
+msgstr "Etat :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:74
+#: includes/WC-Metabox-Colissimo.php:74
+msgid "To Labels :  "
+msgstr "Url labels :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:106
+#: includes/WC-Metabox-Colissimo.php:106
+#: includes/WC-Settings-Tab-Colissimo.php:265
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/WC-Metabox-Colissimo (copie).php:107
+#: includes/WC-Metabox-Colissimo.php:107
+#: includes/WC-Settings-Tab-Colissimo.php:266
+msgid "Cumbersome"
+msgstr "Volumineux"
+
+#: includes/WC-Metabox-Colissimo (copie).php:108
+#: includes/WC-Metabox-Colissimo.php:108
+#: includes/WC-Settings-Tab-Colissimo.php:267
+msgid "Tube"
+msgstr "Rouleau"
+
+#: includes/WC-Metabox-Colissimo (copie).php:134 (copie).php:147
+#: includes/WC-Metabox-Colissimo.php:134 includes/WC-Metabox-Colissimo.php:147
+msgid "yes"
+msgstr "oui"
+
+#: includes/WC-Metabox-Colissimo (copie).php:135 (copie).php:148
+#: includes/WC-Metabox-Colissimo.php:135 includes/WC-Metabox-Colissimo.php:148
+msgid "no"
+msgstr "non"
+
+#: includes/WC-Metabox-Colissimo (copie).php:174
+#: includes/WC-Metabox-Colissimo.php:174
+msgid "sans"
+msgstr "sans"
+
+#: includes/WC-Metabox-Colissimo (copie).php:175
+#: includes/WC-Metabox-Colissimo.php:175
+msgid "avec"
+msgstr "avec"
+
+#: includes/WC-Metabox-Colissimo (copie).php:188
+#: includes/WC-Metabox-Colissimo.php:188
+#: includes/WC-Settings-Tab-Colissimo.php:302
+msgid "No return"
+msgstr "Ne pas retourner"
+
+#: includes/WC-Metabox-Colissimo (copie).php:189
+#: includes/WC-Metabox-Colissimo.php:189
+#: includes/WC-Settings-Tab-Colissimo.php:303
+msgid "Pay for return"
+msgstr "Retour payant"
+
+#: includes/WC-Metabox-Colissimo (copie).php:202
+#: includes/WC-Metabox-Colissimo.php:202
+msgid "non ftd"
+msgstr "non ftd"
+
+#: includes/WC-Metabox-Colissimo (copie).php:203
+#: includes/WC-Metabox-Colissimo.php:203
+msgid "en ftd"
+msgstr "en ftd"
+
+#: includes/WC-Metabox-Colissimo (copie).php:251
+#: includes/WC-Metabox-Colissimo.php:251
+#: includes/WC-Settings-Tab-Colissimo.php:415
+msgid "Gift"
+msgstr "Cadeau"
+
+#: includes/WC-Metabox-Colissimo (copie).php:252
+#: includes/WC-Metabox-Colissimo.php:252
+#: includes/WC-Settings-Tab-Colissimo.php:416
+msgid "Sample"
+msgstr "Echantillon"
+
+#: includes/WC-Metabox-Colissimo (copie).php:253
+#: includes/WC-Metabox-Colissimo.php:253
+#: includes/WC-Settings-Tab-Colissimo.php:417
+msgid "Commercial"
+msgstr "Envoi commercial"
+
+#: includes/WC-Metabox-Colissimo (copie).php:254
+#: includes/WC-Metabox-Colissimo.php:254
+#: includes/WC-Settings-Tab-Colissimo.php:418
+msgid "Documents"
+msgstr "Document"
+
+#: includes/WC-Metabox-Colissimo (copie).php:255
+#: includes/WC-Metabox-Colissimo.php:255
+#: includes/WC-Settings-Tab-Colissimo.php:419
+msgid "Other"
+msgstr "Autre"
+
+#: includes/WC-Metabox-Colissimo (copie).php:256
+#: includes/WC-Metabox-Colissimo.php:256
+#: includes/WC-Settings-Tab-Colissimo.php:420
+msgid "Returned goods"
+msgstr "Retour de marchandise"
+
+#: includes/WC-Metabox-Colissimo (copie).php:266
+#: includes/WC-Metabox-Colissimo.php:266
+msgid "Article : "
+msgstr "Article CN23 num :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:268
+#: includes/WC-Metabox-Colissimo.php:268
+msgid "CN23 Art descript. : "
+msgstr "Description :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:275
+#: includes/WC-Metabox-Colissimo.php:275
+msgid "CN23 Art weight : "
+msgstr "Poids (g) :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:284
+#: includes/WC-Metabox-Colissimo.php:284
+msgid "CN23 Art quantity : "
+msgstr "Quantité :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:293
+#: includes/WC-Metabox-Colissimo.php:293
+msgid "CN23 Art value : "
+msgstr "Valeur HT :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:317
+#: includes/WC-Metabox-Colissimo.php:317
+msgid "CN23 Art origine : "
+msgstr "Pays d'origine :"
+
+#: includes/WC-Metabox-Colissimo (copie).php:348
+#: includes/WC-Metabox-Colissimo.php:348
+msgid "To return label : "
+msgstr "Vers étiquette retour :"
+
+#: includes/WC-Settings-Tab-Colissimo.php:68
+#: includes/WC-Settings-Tab-Colissimo.php:148
+msgid "General settings"
+msgstr "Réglages généraux"
+
+#: includes/WC-Settings-Tab-Colissimo.php:70
+#: includes/WC-Settings-Tab-Colissimo.php:154
+msgid "Tracking settings"
+msgstr "Interface client"
+
+#: includes/WC-Settings-Tab-Colissimo.php:71
+#: includes/WC-Settings-Tab-Colissimo.php:157
+msgid "Automatic Mode"
+msgstr "Mode automatique"
+
+#: includes/WC-Settings-Tab-Colissimo.php:72
+#: includes/WC-Settings-Tab-Colissimo.php:160
+msgid "Method referrals"
+msgstr "Références aux livraisons"
+
+#: includes/WC-Settings-Tab-Colissimo.php:73
+#: includes/WC-Settings-Tab-Colissimo.php:163
+msgid "Colissimo method"
+msgstr "Méthode Colissimo"
+
+#: includes/WC-Settings-Tab-Colissimo.php:75
+#: includes/WC-Settings-Tab-Colissimo.php:169
+msgid "Printing labels"
+msgstr "Impression d'étiquettes"
+
+#: includes/WC-Settings-Tab-Colissimo.php:100
+msgid "Reset the official Colissimo settings"
+msgstr "Réinitialiser les paramètres officiels de Colissimo"
+
+#: includes/WC-Settings-Tab-Colissimo.php:100
+msgid ""
+"Warning : To reset your Colissimo settings (shown with red font)  to "
+"official settings if you have inadvertently changed them. Your own website "
+"settings (font not in red) will not be modified."
+msgstr ""
+"Avertissement: Pour réinitialiser vos réglages Colissimo (affichés avec "
+"police rouge) aux paramètres officiels si vous les aviez modifiés par "
+"inadvertance. Les paramètres propres à votre installation (police non en "
+"rouge) ne seront pas changès."
+
+#: includes/WC-Settings-Tab-Colissimo.php:116
+msgid "Reinstall the CDI Gateway"
+msgstr "Réinstaller la passerelle CDI"
+
+#: includes/WC-Settings-Tab-Colissimo.php:116
+msgid ""
+"Warning : To reinstall the CDI gateway when something is wrong in CDI "
+"process or in an order. The gateway will be recreate empty of parcels. "
+"Existing pending parcels in gateway will be deleted, but corresponding "
+"orders will be inchanged. All others CDI settings will stay."
+msgstr ""
+"Avertissement: Pour réinstaller la passerelle CDI lorsque quelque chose ne "
+"va pas dans le fonctionnement de CDI ou dans une commande dont le colis est "
+"en passerelle. La passerelle sera recréée vide de colis. Les colis en "
+"attente existants dans la passerelle seront supprimés, mais les commandes "
+"correspondantes seront conservées inchangées. Tous les autres paramètres CDI "
+"resteront inchangés."
+
+#: includes/WC-Settings-Tab-Colissimo.php:172
+msgid "It seems yours CDI panels | "
+msgstr "Votre ou vos écrans de paramétrage CDI suivants :  | "
+
+#: includes/WC-Settings-Tab-Colissimo.php:172
+msgid ""
+" have not been registered. So your plugin will not work correctly. Please "
+"click on \"Register changes\" for each of theses panels to have your "
+"settings correctly registered."
+msgstr ""
+" n'ont pas été enregistrés. Pour cela, votre plugin ne fonctionnera pas "
+"correctement. SVP cliquez sur \"Enregistrer les changements\" pour chaque "
+"écran de paramétrage CDI, pour avoir tous vos réglages correctement "
+"enregistrés."
+
+#: includes/WC-Settings-Tab-Colissimo.php:178
+msgid ""
+"The Wordpress version is less than 4.4.0. You should upgrade it to fully use "
+"Colissimo Delivery Integration"
+msgstr ""
+"La version Wordpress est inférieure à 4.4.0. Mettez à jour pour utiliser "
+"pleinement Colissimo Delivery Integration"
+
+#: includes/WC-Settings-Tab-Colissimo.php:182
+msgid ""
+"The Woocommerce version is less than 2.6.0. You should upgrade it to fully "
+"use Colissimo Delivery Integration"
+msgstr ""
+"La version Woocommerce est inférieure à 2.6.0. Mettez à jour pour utiliser "
+"pleinement Colissimo Delivery Integration"
+
+#: includes/WC-Settings-Tab-Colissimo.php:185
+msgid ""
+"The PHP version is less than 5.4.0. You should upgrade it to fully use "
+"Colissimo Delivery Integration"
+msgstr ""
+"La version PHP est inférieure à 5.4.0. Mettez à jour pour utiliser "
+"pleinement Colissimo Delivery Integration"
+
+#: includes/WC-Settings-Tab-Colissimo.php:188
+msgid ""
+"The OpenSSL extension is not installed. You should install it to fully use "
+"Colissimo Delivery Integration"
+msgstr ""
+"L'extension OpenSSL n'est pas installée. Installez la pour utiliser "
+"pleinement Colissimo Delivery Integration"
+
+#: includes/WC-Settings-Tab-Colissimo.php:192
+msgid ""
+"The Openssl version is less than 1.0.1. You should upgrade it to fully use "
+"Colissimo Delivery Integration"
+msgstr ""
+"La version Openssl est inférieure à 1.0.1. Mettez à jour pour utiliser "
+"pleinement Colissimo Delivery Integration"
+
+#: includes/WC-Settings-Tab-Colissimo.php:250
+msgid "Colissimo Delivery Integration - General settings"
+msgstr "Colissimo Delivery Integration - Réglages généraux"
+
+#: includes/WC-Settings-Tab-Colissimo.php:256
+msgid "Parcel default settings"
+msgstr "Réglages généraux pour les colis"
+
+#: includes/WC-Settings-Tab-Colissimo.php:259
+msgid "Auto clean of Colissimo parcels in gateway when \"In truck\" status"
+msgstr ""
+"Nettoyage automatique des colis de la passerelle dont le colis/commande est "
+"en statut \"Dans le camion\" "
+
+#: includes/WC-Settings-Tab-Colissimo.php:270
+msgid "Default Type Parcel"
+msgstr "Type de colis par défaut"
+
+#: includes/WC-Settings-Tab-Colissimo.php:276
+msgid ""
+"Default weight (in grams) of empty Colissimo package (net weight of products "
+"will be added)"
+msgstr ""
+"Poids par défaut (en grammes) d'un colis vide (le poids net des articles y "
+"sera ajouté)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:277
+msgid ""
+"If products have not weight, this tare weight will be the default weight of "
+"the parcel. Anyway, the total computed weight of the parcel can be change "
+"manually in the order meta box before processing the parcel."
+msgstr ""
+"Si les produits n'ont pas de poids indiqué, cette tare sera le poids par "
+"défaut du colis. Quoi qu'il en soit, le poids total calculé  du colis peut "
+"être modifié manuellement dans la méta box de la commande, avant traitement "
+"du colis."
+
+#: includes/WC-Settings-Tab-Colissimo.php:283
+msgid "Default Delivery \"contre-signature avec option recommandation\""
+msgstr ""
+"Choix par défaut d'une délivrance contre-signature avec option recommandé"
+
+#: includes/WC-Settings-Tab-Colissimo.php:289
+msgid "Default Additional Compensation ? :"
+msgstr "Choix par défaut d'une compensation additionnelle"
+
+#: includes/WC-Settings-Tab-Colissimo.php:295
+msgid "Default Total Amount Compensation in euros"
+msgstr "Montant par défaut du montant total de la compensation additionnelle"
+
+#: includes/WC-Settings-Tab-Colissimo.php:296
+msgid ""
+"Is significant only if additional compensation is checked. It is the default "
+"insurance amount in €."
+msgstr ""
+"N'est significatif que si une compensation additionnelle est cochée. C'est "
+"le montant d'assurance par défaut en €."
+
+#: includes/WC-Settings-Tab-Colissimo.php:306
+msgid "Default Type Return"
+msgstr "Type de retour par défaut"
+
+#: includes/WC-Settings-Tab-Colissimo.php:307
+msgid ""
+"Mandatory for some abroad shipments. Consult Colissimo help to known which "
+"countries need that data."
+msgstr ""
+"Information obligatoire pour certaines expéditions à l'étranger. Consultez "
+"l'aide de  Colissimo-La Poste pour connaitre les pays utilisant cette donnée."
+
+#: includes/WC-Settings-Tab-Colissimo.php:311
+msgid "Colissimo Online Mode (iMacros script)"
+msgstr "Mode Colissimo en ligne (script iMacros)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:314
+msgid "French departure city - ZIP code & City."
+msgstr "Ville française de départ  - Code postal et ville "
+
+#: includes/WC-Settings-Tab-Colissimo.php:315
+msgid ""
+"Mandatory for Colissimo online services. The syntax zipcode espace city is "
+"strict."
+msgstr ""
+"Obligatoire pour les services en ligne de Colissimo. La syntaxe code-postal "
+"espace ville doit être strictement respectée."
+
+#: includes/WC-Settings-Tab-Colissimo.php:321
+msgid "Departure from your own letter box"
+msgstr "Départ du colis par dépot dans votre boite aux lettres personnelle"
+
+#: includes/WC-Settings-Tab-Colissimo.php:325
+msgid "Plugin features"
+msgstr "Fonctionnalités Plugin"
+
+#: includes/WC-Settings-Tab-Colissimo.php:354
+msgid "Multi select the modules for which you need a debugging log."
+msgstr ""
+"Multi sélectionner les modules pour lesquels vous souhaitez un journal de "
+"débogage."
+
+#: includes/WC-Settings-Tab-Colissimo.php:355
+msgid ""
+"A selection of only some modules will give you a smaller log file easier to "
+"be analysed. To analyse the log, you can directly edit the wp-content/debug."
+"log file, or use ad-hoc plugin to view and manage the file as for instance "
+"\"WP Log Viewer Plugin\"."
+msgstr ""
+"Une sélection de seulement quelques modules vous donnera un fichier journal "
+"plus petit donc plus facile à analyser. Pour analyser le journal, vous "
+"pouvez éditer directement le fichier wp-content / debug.log, ou utiliser un  "
+"Plugin ad-hoc  pour afficher et gérer le fichier log  comme par exemple le "
+"Plugin \"WP Log Viewer\"."
+
+#: includes/WC-Settings-Tab-Colissimo.php:361
+msgid "Enable log for debugging purpose"
+msgstr "Activer le log de debug "
+
+#: includes/WC-Settings-Tab-Colissimo.php:362
+msgid ""
+"Traces apply to all CDI modules. They are stored in the wp-content/debug.log "
+"file when the config.php setting authorize the debug mode with : "
+"define( 'WP_DEBUG', true ); define( 'WP_DEBUG_LOG', true ); "
+"define( 'WP_DEBUG_DISPLAY', false );"
+msgstr ""
+"Les traces portent sur les modules CDI que vous avez sélectionnés dans le "
+"réglage ci-dessous. Elles seront stockées dans le fichier wp-content/debug."
+"log dès lors que le fichier config.php autorise le mode debug par les "
+"directives : define( 'WP_DEBUG', true ); define( 'WP_DEBUG_LOG', true ); "
+"define( 'WP_DEBUG_DISPLAY', false );"
+
+#: includes/WC-Settings-Tab-Colissimo.php:369
+msgid "Choose the WP role you want to have access to CDI-Gateway."
+msgstr ""
+"Choisissez un (des)  rôle(s) WP pour lequel vous souhaitez un accès à la "
+"passerelle CDI (en plus des Admin)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:370
+msgid ""
+"Administrator have already an access to CDI-Gateway. But you can choose to "
+"give also access to CDI-Gateway to another role which is not administrator ."
+msgstr ""
+"Les Administrateurs ont déjà accès à la passerelle CDI. Mais vous pouvez "
+"choisir de donner également un accès à la passerelle à un ou plusieurs "
+"autres rôles (standard ou privé) qui ne sont pas administrateurs."
+
+#: includes/WC-Settings-Tab-Colissimo.php:376
+msgid "Clean CDI datas when plugin is uninstalled"
+msgstr ""
+"Suppression des données/paramètres CDI lorsque le plugin est désinstallé"
+
+#: includes/WC-Settings-Tab-Colissimo.php:377
+msgid ""
+"CDI parameters are normally keep saved in the database when the plugin is "
+"uninstalled. Thus, these parameters are operational when the plugin is "
+"reinstalled. By cons, when the ckeck is checked, all CDI datas will be "
+"cleaned when the plugin is uninstall."
+msgstr ""
+"Les paramètres de CDI sont normalement conservés dans la base de données "
+"lorsque le plugin est désinstallé. Ainsi, ces paramètres sont à nouveau "
+"opérationnels  lorsque le plugin est réinstallé. Par contre, lorsque ce "
+"control est coché, toutes les données/paramêtres de CDI seront nettoyées à "
+"la désinstallation du plugin."
+
+#: includes/WC-Settings-Tab-Colissimo.php:381
+msgid "Réservé aux abonné CDI+"
+msgstr "Réservé aux abonné CDI+"
+
+#: includes/WC-Settings-Tab-Colissimo.php:384
+msgid "CDI+ contract number"
+msgstr "Numéro de contrat CDI+"
+
+#: includes/WC-Settings-Tab-Colissimo.php:385
+msgid "Si vous êtes abonné à CDI+, indiquez ici votre numéro de contrat."
+msgstr "Si vous êtes abonné à CDI+, indiquez ici votre numéro de contrat."
+
+#: includes/WC-Settings-Tab-Colissimo.php:391
+msgid "CDI+ authentification"
+msgstr "CDI+ Authentification"
+
+#: includes/WC-Settings-Tab-Colissimo.php:392
+msgid ""
+"Si vous êtes abonné à CDI+, indiquez ici votre clé authentification CDI+"
+msgstr ""
+"Si vous êtes abonné à CDI+, indiquez ici votre clé authentification CDI+"
+
+#: includes/WC-Settings-Tab-Colissimo.php:407
+msgid "Colissimo Delivery Integration - CN23 default settings"
+msgstr "Colissimo Delivery Integration - Paramètres CN23 par défault"
+
+#: includes/WC-Settings-Tab-Colissimo.php:423
+msgid "Default CN23 Category"
+msgstr "CN23 par défaut :  Catégorie "
+
+#: includes/WC-Settings-Tab-Colissimo.php:424
+msgid ""
+"Give the nature of the contents of the package in CN23 codification. CN23 is "
+"an internationally recognized standard, to codify customs declarations. In "
+"France, a CN23 is required for all shipments abroad and the TOM-DOM except: "
+"DE, AT, BE, BG, CY, DK ES  EE, FI, E, GR, HU, IE, IT, LV, LT, LU, MT, NL,  "
+"PL , PT , CZ , RO , GB , IE , SK , SI , SE."
+msgstr ""
+"Donne la nature du contenu du colis. CN23 est une norme internationalement "
+"reconnue, de codification des déclarations en douane. En France, un CN23 est "
+"nécessaire pour tous les envois à l'étranger et les TOM-DOM sauf: DE, AT, "
+"BE, BG, CY, DK ES EE, FI, E, GR, HU, IE, IT, LV, LT, LU, MT, NL, PL, PT, CZ, "
+"RO, GB, IE, SK, SI, SE."
+
+#: includes/WC-Settings-Tab-Colissimo.php:429
+msgid "Default CN23 Description of article (blank = copied from product order)"
+msgstr ""
+"CN23 par défaut : Description des articles (blanc = sera copiée depuis "
+"l'ordre)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:430
+msgid ""
+"Give the the default description of articles in the parcel. Up to 10 items/"
+"products can be included in a CDI CN23.\n"
+"If null or 0,  product title, product weight, product quantity, and product "
+"price in the order will be considered. "
+msgstr ""
+"Donne la description par défaut des articles dans le colis. Jusqu'à 10 "
+"articles / produits peuvent être inclus dans un CN23 de CDI. \n"
+"Si les informations ci-après sont nulles ou 0, seront alors considérés le "
+"titre du produit, le poids du produit, la quantité de produit, et le prix du "
+"produit dans la commande ."
+
+#: includes/WC-Settings-Tab-Colissimo.php:437
+msgid ""
+"Default CN23 Net weight in grams of one article (0 = copied from product "
+"order)"
+msgstr ""
+"CN23 par défaut : Poids net en grammes d'un article (0 = sera copiée depuis "
+"l'ordre)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:443
+msgid ""
+"Default CN23 Number of articles in the parcel (0 = copied from product order)"
+msgstr ""
+"CN23 par défaut : Nombre d'articles dans le colis (0 = sera copiée depuis "
+"l'ordre)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:449
+msgid ""
+"Default CN23 ex VAT Value in € of one article (0 = copied from product order)"
+msgstr ""
+"CN23 par défaut : Valeur HT en € d'un article (0 = sera copiée depuis "
+"l'ordre)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:458
+msgid ""
+"Default CN23 HS tariff code- 4 to 6 digits (only if \"Commercial\" category)"
+msgstr ""
+"CN23 par défaut : Code tarif HS - 4 à 6 chiffres - requis pour la catégorie "
+"\"Commercial\"  (blanc = sera copiée de la meta donnée \"hstariff\" du "
+"produit)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:459
+msgid ""
+"HS Tariff is an internationally recognized standard, to codify customs "
+"declarations. This code is required only for commercial shipment"
+msgstr ""
+"HS Tariff est une norme internationalement reconnue, de codification "
+"douanière des marchandises. Ce code est nécessaire seulement pour les "
+"expéditions Envoi commercial."
+
+#: includes/WC-Settings-Tab-Colissimo.php:465
+msgid "Default CN23 ISO code of origine country (for Customs)"
+msgstr "CN23 par défaut : Code ISO du pays d'origine   (pour les douanes)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:466
+msgid ""
+"Required by some customs : the 2 letters ISO code of origine country of the "
+"item"
+msgstr ""
+"Requis par certaines douanes : les 2 lettres code ISO du pays d'origine de "
+"l'article."
+
+#: includes/WC-Settings-Tab-Colissimo.php:480
+msgid "Colissimo Delivery Integration - Tracking settings"
+msgstr "Colissimo Delivery Integration - Informations au client"
+
+#: includes/WC-Settings-Tab-Colissimo.php:486
+msgid "Tracking code to customer"
+msgstr "Code de suivi pour le client"
+
+#: includes/WC-Settings-Tab-Colissimo.php:489
+msgid "nothing"
+msgstr "rien"
+
+#: includes/WC-Settings-Tab-Colissimo.php:490
+msgid "emails"
+msgstr "mail au client"
+
+#: includes/WC-Settings-Tab-Colissimo.php:491
+msgid "order-views"
+msgstr "ordre vu par le client"
+
+#: includes/WC-Settings-Tab-Colissimo.php:492
+msgid "emails and order-views"
+msgstr "mail au client et ordre vu par le client"
+
+#: includes/WC-Settings-Tab-Colissimo.php:495
+msgid ""
+"Insert tracking code and pickup location in Customer emails and/or Customer "
+"order views"
+msgstr ""
+"Insérer le code de suivi et le point de retrait dans les mails au client et/"
+"ou dans les vues d'ordre du client "
+
+#: includes/WC-Settings-Tab-Colissimo.php:496
+msgid ""
+"You can choose to insert customer informations in the customer  mails and / "
+"or the customer order views. Information shown are the tracking code and the "
+"pickup location the customer has choosen."
+msgstr ""
+"Vous pouvez choisir d'insérer des informations pour vos clients dans leurs "
+"mails et / ou dans leurs vues de commande. Les informations affichées sont "
+"le code de suivi et le lieu de retrait que le client a choisi."
+
+#: includes/WC-Settings-Tab-Colissimo.php:502
+msgid "Order shipped. Your tracking code is : "
+msgstr "Votre colis a été expédié. Votre code de suivi est :"
+
+#: includes/WC-Settings-Tab-Colissimo.php:503
+msgid "Text preceding tracking code"
+msgstr "Texte précédant le code de suivi"
+
+#: includes/WC-Settings-Tab-Colissimo.php:504
+msgid ""
+"Here, the text you want the customer to see just before the tracking code"
+msgstr ""
+"Ici, le texte que vous voulez que le client voit juste avant son code de "
+"suivi."
+
+#: includes/WC-Settings-Tab-Colissimo.php:511
+msgid "Url for tracking code"
+msgstr "Url de suivi des colis"
+
+#: includes/WC-Settings-Tab-Colissimo.php:512
+msgid ""
+"Here, the standard url of your carrier. Don't change it if you don't known "
+"its url."
+msgstr ""
+"Ici, l'URL standard de votre transporteur Colissimo. Ne pas la changer si "
+"vous ne connaissez pas l'URL à mettre."
+
+#: includes/WC-Settings-Tab-Colissimo.php:520
+msgid "Extend WC addresses to postal standarts"
+msgstr "Extension des adresses Woocommerce aux normes postales"
+
+#: includes/WC-Settings-Tab-Colissimo.php:523
+msgid ""
+"Extend the Woocommerce addresses to 4 lines as the standarts used by LaPoste-"
+"Colissimo"
+msgstr ""
+"Extension des adresses Wocommerce de 2 à 4 lignes, telle  la norme utilisée "
+"par LaPoste-Colissimo"
+
+#: includes/WC-Settings-Tab-Colissimo.php:531
+msgid ""
+"La Poste ControlAdresse API key. Key to get at https://developer.laposte.fr/"
+msgstr ""
+"La clé de l'API ControlAdresse fournie par La Poste. La clé peut être "
+"obtenue à https://developer.laposte.fr/"
+
+#: includes/WC-Settings-Tab-Colissimo.php:532
+msgid ""
+"Here, the La Poste ControlAdresse API key to be authorize to ask address "
+"control."
+msgstr ""
+"Ici, la clé de l'API ControlAdresse de La Poste pour vous autoriser à "
+"utiliser le contrôle d'adresse."
+
+#: includes/WC-Settings-Tab-Colissimo.php:552
+msgid "Colissimo Delivery Integration - Automatic Mode (Web Service) settings"
+msgstr ""
+"Colissimo Delivery Integration - Mode automatique (Web Service "
+"Affranchissement) "
+
+#: includes/WC-Settings-Tab-Colissimo.php:558
+msgid "General"
+msgstr "Réglages généraux"
+
+#: includes/WC-Settings-Tab-Colissimo.php:561
+msgid "Web Service - Contract Number"
+msgstr "Web Service - Numéro de contrat"
+
+#: includes/WC-Settings-Tab-Colissimo.php:562
+msgid ""
+"Your Colissimo contrat number including the option 'Web Service "
+"(Flexibilité) pour livraison et étiquetage'."
+msgstr ""
+"Votre numéro de contrat Colissimo ayant l'option  'Web Service (Flexibilité) "
+"pour livraison et étiquetage'."
+
+#: includes/WC-Settings-Tab-Colissimo.php:568
+msgid "Web Service - Password"
+msgstr "Web Service - Mot de passe"
+
+#: includes/WC-Settings-Tab-Colissimo.php:569
+msgid "Your password at your Colissimo contrat"
+msgstr "Votre mot de passe pour votre contrat Colissimo Entreprise."
+
+#: includes/WC-Settings-Tab-Colissimo.php:575
+msgid "Web Service - Output Format - Offset X in pixels"
+msgstr "Web Service - Format de sortie - Offset X en pixels"
+
+#: includes/WC-Settings-Tab-Colissimo.php:576
+msgid "The 3 following datas are Colissimo settings for the printing."
+msgstr ""
+"Les 3 données suivantes sont des paramètres Colissimo pour l'impression."
+
+#: includes/WC-Settings-Tab-Colissimo.php:582
+msgid "Web Service - Output Format - Offset Y in pixels"
+msgstr "Web Service - Format de sortie - Offset Y en pixels"
+
+#: includes/WC-Settings-Tab-Colissimo.php:596
+msgid "Web Service - Output Format - Printing Type (DPL & ZPL not supported)"
+msgstr ""
+"Web Service - Format de sortie - Type d'impression (DPL & ZPL not supported)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:602
+msgid ""
+"Web Service - Offset Deposit Date (estimate in days after running the web "
+"service)"
+msgstr ""
+"Web Service -  Nombre de jours avant dépôt  (estimation à partir du jour "
+"d'exécution du Web Service)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:603
+msgid "Estimate period in days to deposit yours parcels. Useful for La Poste."
+msgstr ""
+"Délai estimé en jours pour déposer le  colis à La Poste. Utile pour les "
+"prévisions de La Poste."
+
+#: includes/WC-Settings-Tab-Colissimo.php:609
+msgid "Include CN23 customs declarations in returned labels"
+msgstr "Inclure les déclarations de douane CN23 dans les étiquettes de retour"
+
+#: includes/WC-Settings-Tab-Colissimo.php:610
+msgid ""
+"When checked, a CN23 will be added at the end of the label you access with "
+"the url. Anyway, an enclose CN23 is always store in your meta box order."
+msgstr ""
+"Lorsqu'elle est cochée, un CN23 sera ajouté à la fin de l'étiquette accédée "
+"avec l'URL. Quoi qu'il en soit, un CN23 sera toujours stocké et accessible "
+"depuis la Colissimo méta box de la commande."
+
+#: includes/WC-Settings-Tab-Colissimo.php:614
+msgid "Sender address"
+msgstr " Adresse de l'expéditeur "
+
+#: includes/WC-Settings-Tab-Colissimo.php:617
+msgid ""
+"Web Service - Sender Address - Company Name (May be same as website name)"
+msgstr ""
+"Web Service - Adresse de l'expéditeur - Nom de la société (éventuellement le "
+"même que  Wordpress)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:618
+msgid ""
+"The 6 following datas define your address as sender. This address will be on "
+"the parcels."
+msgstr ""
+"Les 6 données suivantes définissent votre adresse comme expéditeur. Cette "
+"adresse sera sur les colis."
+
+#: includes/WC-Settings-Tab-Colissimo.php:624
+msgid "Web Service - Sender Address - Mandatory num and street"
+msgstr "Web Service - Adresse de l'expéditeur -  Obligatoire numéro et voie"
+
+#: includes/WC-Settings-Tab-Colissimo.php:630
+msgid "Web Service - Sender Address - Optionnal other infos"
+msgstr "Web Service - Adresse de l'expéditeur -  Optionnel autres informations"
+
+#: includes/WC-Settings-Tab-Colissimo.php:639
+msgid "Web Service - Sender Address - ZipCode"
+msgstr "Web Service - Adresse de l'expéditeur - Code postal"
+
+#: includes/WC-Settings-Tab-Colissimo.php:645
+msgid "Web Service - Sender Address - City"
+msgstr "Web Service - Adresse de l'expéditeur - Ville"
+
+#: includes/WC-Settings-Tab-Colissimo.php:651
+msgid "Web Service - Sender Address - Country Code"
+msgstr "Web Service - Adresse de l'expéditeur - Code ISO du Pays"
+
+#: includes/WC-Settings-Tab-Colissimo.php:657
+msgid "Web Service - Sender Address - Email"
+msgstr "Web Service - Adresse de l'expéditeur - Mail de l'expéditeur"
+
+#: includes/WC-Settings-Tab-Colissimo.php:658
+msgid "Your email address as sender of the parcel."
+msgstr "Votre adresse e-mail comme expéditeur du colis."
+
+#: includes/WC-Settings-Tab-Colissimo.php:662
+msgid "France Zone"
+msgstr "Zone France"
+
+#: includes/WC-Settings-Tab-Colissimo.php:666
+msgid "ISO country codes for Colissimo France zone"
+msgstr "Codes ISO des pays de la Zone Colissimo France"
+
+#: includes/WC-Settings-Tab-Colissimo.php:667
+msgid ""
+"This defines 1- the list of ISO country codes for Colissimo France zone, and "
+"2- the Colissimo product codes with France as destination, for the "
+"services : without signature, with signature, pickup location. Theses codes "
+"are used only if no product code is set in the order meta box."
+msgstr ""
+"Ceci définit 1) la liste des codes ISO des pays de la Zone France de "
+"Colissimo, et 2) la liste des codes produits Colissimo ayant la Zone France "
+"comme destination, pour respectivement les services Colissimo: sans "
+"signature, avec signature, point de retrait. Ces codes ne sont utilisés "
+"qu’au cas où aucun code produit n'est défini dans la Métabox Colissimo de "
+"l'ordre. "
+
+#: includes/WC-Settings-Tab-Colissimo.php:674
+msgid "Product Codes for France zone"
+msgstr "Codes produit Colissimo pour la Zone France"
+
+#: includes/WC-Settings-Tab-Colissimo.php:678
+msgid "Outre-mer Zone"
+msgstr "Zone Outre-mer"
+
+#: includes/WC-Settings-Tab-Colissimo.php:682
+msgid "ISO country codes for Colissimo Outre-mer zone"
+msgstr "Codes ISO des pays de la Zone Colissimo Outre-mer"
+
+#: includes/WC-Settings-Tab-Colissimo.php:683
+msgid ""
+"This defines 1- the list of ISO country codes for Colissimo Outre-mer zone, "
+"and 2- the Colissimo product codes with Outre Mer as destination, for the "
+"services : without signature, with signature, pickup location. Theses codes "
+"are used only if no product code is set in the order meta box."
+msgstr ""
+"Ceci définit 1) la liste des codes ISO des pays de la Zone Outre-mer de "
+"Colissimo, et 2) la liste des codes produits Colissimo ayant la Zone Outre-"
+"mer comme destination, pour respectivement les services Colissimo: sans "
+"signature, avec signature, point de retrait. Ces  codes ne sont utilisés "
+"qu’au cas où aucun code produit n'est défini dans la Métabox Colissimo de "
+"l'ordre. "
+
+#: includes/WC-Settings-Tab-Colissimo.php:690
+msgid "Product Codes for Outre-mer zone"
+msgstr "Codes produit Colissimo pour la Zone Outre-mer"
+
+#: includes/WC-Settings-Tab-Colissimo.php:694
+msgid "Europe Zone"
+msgstr "Zone Europe"
+
+#: includes/WC-Settings-Tab-Colissimo.php:698
+msgid "ISO country codes for Colissimo Europe zone"
+msgstr "Codes ISO des pays de la Zone Colissimo Europe"
+
+#: includes/WC-Settings-Tab-Colissimo.php:699
+msgid ""
+"This defines 1- the list of ISO country codes for Colissimo Europe zone, and "
+"2- the Colissimo product codes with Europe as destination, for the "
+"services : without signature, with signature, pickup location. Theses codes "
+"are used only if no product code is set in the order meta box."
+msgstr ""
+"Ceci définit 1) la liste des codes ISO des pays de la Zone Europe de "
+"Colissimo, et 2) la liste des codes produits Colissimo ayant la Zone Europe "
+"comme destination, pour respectivement les services Colissimo: sans "
+"signature, avec signature, point de retrait. Ces  codes ne sont utilisés "
+"qu’au cas où aucun code produit n'est défini dans la Métabox Colissimo de "
+"l'ordre. "
+
+#: includes/WC-Settings-Tab-Colissimo.php:706
+msgid "Product Codes for Europe zone"
+msgstr "Codes produit Colissimo pour la Zone Europe"
+
+#: includes/WC-Settings-Tab-Colissimo.php:710
+msgid "International Zone"
+msgstr "Zone Internationale"
+
+#: includes/WC-Settings-Tab-Colissimo.php:714
+msgid "ISO country codes for Colissimo International zone"
+msgstr "Codes ISO des pays de la Zone Colissimo Internationale"
+
+#: includes/WC-Settings-Tab-Colissimo.php:715
+msgid ""
+"This defines 1- the list of ISO country codes for Colissimo International "
+"zone, and 2- the Colissimo product codes with International as destination, "
+"for the services : without signature, with signature, pickup location. "
+"Theses codes are used only if no product code is set in the order meta box."
+msgstr ""
+"Ceci définit 1) la liste des codes ISO des pays de la Zone Internationale de "
+"Colissimo, et 2) la liste des codes produits Colissimo ayant la Zone "
+"Internationale comme destination, pour respectivement les services "
+"Colissimo: sans signature, avec signature, point de retrait. Ces  codes ne "
+"sont utilisés qu’au cas où aucun code produit n'est défini dans la Métabox "
+"Colissimo de l'ordre. "
+
+#: includes/WC-Settings-Tab-Colissimo.php:722
+msgid "Product Codes for International zone"
+msgstr "Codes produit Colissimo pour la Zone Internationale"
+
+#: includes/WC-Settings-Tab-Colissimo.php:726
+msgid "Exception product codes"
+msgstr "Codes produit à substituer"
+
+#: includes/WC-Settings-Tab-Colissimo.php:730
+msgid ""
+"Web Service - Comma separated list of \"code_to_replace=new_code_to_use\" "
+"just before the call of Colissimo WS (ex DOM=COLD,DOS=COL)"
+msgstr ""
+"Liste (séparée par des virgules) des remplacements  "
+"\"code_à_replacer=nouveau_code_à_utiliser\" à faire juste avant l'appel du "
+"Colissimo Web Service (ex DOM=COLD,DOS=COL)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:731
+msgid ""
+"This defines Colissimo product codes in exception which have to be replace "
+"just before the call of Colissimo Web Service. Generally speaking, the "
+"choice of a product code is done in this order : 1) the code for a shipping "
+"method as defined in referal, 2) the code given by Colissimo for a pickup "
+"location, 3) the code manually forced in meta box order, 4) optionnally if "
+"still null in meta box, the code defines in settings for France, Outre mer, "
+"International, 5) and finally the exception code rule which has the greatest "
+"priority. "
+msgstr ""
+"Ceci définit les codes de produit Colissimo en exception qui doivent être "
+"remplacés juste avant l'appel du Web service  Colissimo. D'une manière "
+"générale, le choix d'un code de produit se fait dans cet ordre: 1) le code "
+"d'une méthode de livraison tel que défini dans le réglages des référencesl, "
+"2) le code donné par Colissimo pour un point de retrait, 3) le code forcé "
+"manuellement en Colissimo méta box , 4) optionnellement si il est encore "
+"vide dans la Colissimo méta box, le code définit dans les paramètres pour "
+"France, Outre mer, international, 5) et enfin la règle du code d'exception "
+"qui a la plus grande priorité."
+
+#: includes/WC-Settings-Tab-Colissimo.php:745
+msgid "Colissimo Delivery Integration - Referrals to shipping methods"
+msgstr "Colissimo Delivery Integration - Références aux méthodes de livraison"
+
+#: includes/WC-Settings-Tab-Colissimo.php:753
+msgid "Global enable of referrals to shipping method."
+msgstr ""
+"Activation/désactivation globale des références aux méthodes de livraison."
+
+#: includes/WC-Settings-Tab-Colissimo.php:754
+msgid ""
+"Shipping method referrals enables to set 3 qualifications to shipping "
+"methods presented to customer : - shipping methods for which the Pickup "
+"locations function must be activate, - the Colissimo product codes to "
+"associate to shipping methods, - shipping methods which are exclusive."
+msgstr ""
+"Les références aux méthodes de livraison permettent de leur attribuer 3 "
+"types de qualifications quand elles sont présentées au client : - les "
+"méthodes pour laquelle la fonction de point de retrait doit être activée, - "
+"les codes produit Colissimo à associer à certaines méthodes, - les méthodes "
+"qui sont exclusives des autres (donc présentées seules)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:758
+msgid "Pickup locations"
+msgstr "Points de retrait"
+
+#: includes/WC-Settings-Tab-Colissimo.php:762
+msgid ""
+"Optional - Comma separated list of \"Shipping-Method-names = filter-relay\" "
+"which activate the Colissimo pickup location choice process. Filter-relay = "
+"0 or 1 to define type of Colissimo list. May be methods of Colissimo "
+"shipping or external methods. Selection may focus on a specific instance as "
+"\"flat_rate:25=1\" "
+msgstr ""
+"Optionnel - Liste des \"Shipping-Méthode-names = filtre-relais\" (séparés "
+"par des virgules) qui activent le processus de choix du point de retrait "
+"Colissimo. Filtre-relais = 0 ou 1 pour définir le type de liste Colissimo "
+"(points commerces non présentés ou présentés). Les méthodes peuvent être les "
+"méthodes de ce plugin  ou des méthodes externes. La sélection peut préciser "
+"une instance particulière  comme par exemple \"flat_rate:25=1\""
+
+#: includes/WC-Settings-Tab-Colissimo.php:763
+msgid ""
+"Here, define the shipping methods for which the Pickup locations function "
+"must be activate. They must be shipping zone methods (WC >=2.6)"
+msgstr ""
+"Ici, définissez les méthodes de livraison pour lesquelles la fonction de "
+"point de retrait doit être activée. Ce doit être des méthodes au standard "
+"\"shipping zones\" de WC >= 2.6."
+
+#: includes/WC-Settings-Tab-Colissimo.php:770
+msgid "Pickup location country codes (excluding X00 network)"
+msgstr ""
+"Liste des codes ISO des pays pour lesquels des \"points de retrait\"  "
+"Colissimo sont gérés  (réseaux X00  exclus)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:771
+msgid ""
+"This defines the list of destination countries for which Colissimo runs its "
+"pickup location service."
+msgstr ""
+"Ceci définit la liste des pays de destination pour lesquels Colissimo assure "
+"son service de point de retait."
+
+#: includes/WC-Settings-Tab-Colissimo.php:777
+msgid "Pickup location map shown open at entry of selected method."
+msgstr ""
+"Carte des points de retrait à ouvrir automatiquement dès sélection d'une "
+"méthode point de retrait."
+
+#: includes/WC-Settings-Tab-Colissimo.php:783
+msgid ""
+"Map periodic refresh for themes with multi views in woocommerce checkout "
+"page (to use only when necessary)."
+msgstr ""
+"Rafraichissement de la carte GM pour les thèmes utilisant du multi vues dans "
+"la page checkout de Woocommerce (à utiliser uniquement si nécessaire)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:793
+msgid ""
+"Pickup location mode to select location by click on map. Warning, this "
+"option may not work with some themes and plugins."
+msgstr ""
+"Sélection des points retrait en cliquant sur la carte. Attention, cette "
+"option peut ne pas fonctionner avec certains thèmes et plugins."
+
+#: includes/WC-Settings-Tab-Colissimo.php:799
+msgid "Before shop box"
+msgstr "Avant le bloc boutique"
+
+#: includes/WC-Settings-Tab-Colissimo.php:800
+msgid "After shop box"
+msgstr "Après le bloc boutique"
+
+#: includes/WC-Settings-Tab-Colissimo.php:801
+msgid "Before payment"
+msgstr "Avant le bloc paiement"
+
+#: includes/WC-Settings-Tab-Colissimo.php:802
+msgid "After payment"
+msgstr "Après le bloc paiement"
+
+#: includes/WC-Settings-Tab-Colissimo.php:803
+msgid "Before order review"
+msgstr "Avant la zone commande"
+
+#: includes/WC-Settings-Tab-Colissimo.php:804
+msgid "After order review"
+msgstr "Après la zone commande"
+
+#: includes/WC-Settings-Tab-Colissimo.php:808
+msgid ""
+"Pickup location to choose where must be map in checkout page. Warning, this "
+"option may not work with some themes and plugins."
+msgstr ""
+"Choix de l'emplacement de la carte des points retrait dans la page commande. "
+"Attention, cette option peut ne pas fonctionner avec certains thèmes et "
+"plugins."
+
+#: includes/WC-Settings-Tab-Colissimo.php:820
+msgid "Optional - Google maps API key"
+msgstr "Optionnel  - Clé API pour Google  Maps"
+
+#: includes/WC-Settings-Tab-Colissimo.php:821
+msgid ""
+"Here, set your Google maps API key. Without a key, you will have a "
+"restricted use of Google maps."
+msgstr ""
+"Ici, mettez votre clé pour l'API de Google Maps. Sans clé, vous pourriez "
+"avoir un usage limité de Google Maps."
+
+#: includes/WC-Settings-Tab-Colissimo.php:825
+msgid "Associated product codes"
+msgstr "Codes produit à forcer"
+
+#: includes/WC-Settings-Tab-Colissimo.php:829
+msgid ""
+"Optional - Comma separated list of relations \"Method-name = Colissimo-"
+"product-code\" to be use for Colissimo. May be methods of Colissimo shipping "
+"or external methods."
+msgstr ""
+"Optionnel - Liste des \"Shipping-Méthode-names= Colissimo-product-code"
+"\" (séparés par des virgules) pour déterminer le code produit Colissimo à "
+"forcer (Ex: colissimo_shippingzone_method_home1=DOM, "
+"colissimo_shippingzone_method_home2=DOS). Les méthodes peuvent être les "
+"méthodes de ce plugin  ou des méthodes externes. La sélection peut préciser "
+"une instance particulière  comme par exemple \"flat_rate:25=DOS\""
+
+#: includes/WC-Settings-Tab-Colissimo.php:830
+msgid ""
+"Here, define the Colissimo product codes to associate to shipping methods."
+msgstr ""
+"Ici, définissez les codes produit Colissimo à associer à des méthodes de "
+"livraison."
+
+#: includes/WC-Settings-Tab-Colissimo.php:834
+msgid "Exclusive shipping methods"
+msgstr "Méthodes de livraison exclusives"
+
+#: includes/WC-Settings-Tab-Colissimo.php:837
+msgid ""
+"Optional - Comma separated list of shipping method names which are exclusive "
+"of others. The priority is given to the first method matching in the "
+"original woocommerce package list. May be methods of Colissimo shipping or "
+"external methods. Ex: \"colissimo_shippingzone_method_home5, free_shipping\""
+msgstr ""
+"Optionnel - Liste (séparation par virgules) des noms des méthodes de "
+"livraison qui sont exclusives de toutes autres méthodes. La priorité est "
+"donnée à la première méthode trouvée dans la liste des méthodes éligibles "
+"pour le panier selon Woocommerce (sa package list). Les méthodes peuvent "
+"être des méthodes de livraison du plugin ou des méthodes externes. La "
+"sélection peut cibler une instance particulière.  Ex: "
+"\"colissimo_shippingzone_method_home5,"
+"colissimo_shippingzone_method_home1:12, flat_rate:19\""
+
+#: includes/WC-Settings-Tab-Colissimo.php:838
+msgid ""
+"Here, define the shipping methods which are exclusive (i.e. which will be "
+"alone when presented to customer)."
+msgstr ""
+"Ici, définissez les méthodes de livraison qui sont exclusives (i.e. qui "
+"seront présentées seules au client)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:853
+msgid "Colissimo Delivery Integration - Colissimo method global settings"
+msgstr ""
+"Colissimo Delivery Integration - Réglages généraux de la méthode de "
+"livraison Colissimo"
+
+#: includes/WC-Settings-Tab-Colissimo.php:861
+msgid "Global enabling of Colissimo shipping method (Shipping zone mode)"
+msgstr ""
+"Activation/désactivation globale des méthodes de livraison Colissimo "
+"contenues dans les shipping zones."
+
+#: includes/WC-Settings-Tab-Colissimo.php:862
+msgid ""
+"You must have installed WooCommerce 2.6 or further to run this shipping "
+"method.  Details of settings must be done in each methods [WooCommerce -> "
+"Settings -> Shipping]."
+msgstr ""
+"Le paramétrage détaillé de chacune des méthodes est à faire dans les "
+"shipping zones  [WooCommerce -> Réglages -> Expédition] . Ne fonctionne "
+"qu'avec WooCommerce 2.6 ou supérieur."
+
+#: includes/WC-Settings-Tab-Colissimo.php:868
+msgid "Set shipping method icons in front end."
+msgstr ""
+"Ajout en front-end client  d'une icône précédant  le nom de la méthode de "
+"livraison."
+
+#: includes/WC-Settings-Tab-Colissimo.php:869
+msgid ""
+"Customization of icons are to do in plugin images directory (refer to "
+"examples for size and type) or trought a filter to keep the images in your "
+"own directory."
+msgstr ""
+"La personnalisation des icônes est à faire dans le répertoire images du "
+"plugin (voir les exemples pour la taille et le type), ou mieux,  au travers "
+"d'un filtre pour conserver vos images dans votre propre répertoire."
+
+#: includes/WC-Settings-Tab-Colissimo.php:877
+msgid "Extend Termid list"
+msgstr "Liste étendue des TermId"
+
+#: includes/WC-Settings-Tab-Colissimo.php:880
+msgid ""
+"Optional - Comma separated list of shipping method Termid which will be "
+"added to the standard list. Ex: \"home6, home7, shop6, autre1, autre2\""
+msgstr ""
+"Optionnel - Liste des  TermId de méthode d'expédition séparée par des "
+"virgules, qui seront ajoutées à la liste standard. Ex: \"home6, home7, "
+"shop6, autre1, autre2\""
+
+#: includes/WC-Settings-Tab-Colissimo.php:881
+msgid ""
+"Here, extend the shipping methods Termid for your special customization."
+msgstr ""
+"Ici, personnalisez et étendez les TermId de vos méthodes d'expédition CDI "
+
+#: includes/WC-Settings-Tab-Colissimo.php:900
+msgid "Colissimo Delivery Integration - Parcel return settings"
+msgstr "Colissimo Delivery Integration - Réglages colis retour"
+
+#: includes/WC-Settings-Tab-Colissimo.php:908
+msgid "Global enabling of Colissimo parcel return function."
+msgstr "Activation/désactivation globale de la fonction retour de colis."
+
+#: includes/WC-Settings-Tab-Colissimo.php:909
+msgid ""
+"Logged customers will have the capacity, from their order view, to create "
+"and print a Colissimo return label. This feature requires a Bussiness "
+"contract with Colissimo to access the Web Service Affranchissement."
+msgstr ""
+"les clients connectés auront la capacité, depuis la vue de leur commande, de "
+"créer et imprimer une étiquette de retour Colissimo. Cette fonction "
+"nécessite un contrat Bussiness avec Colissimo pour accéder au Web Service "
+"Affranchissement ."
+
+#: includes/WC-Settings-Tab-Colissimo.php:915
+msgid ""
+"In case you need to return your parcel, request for a  printable Colissimo "
+"return label : "
+msgstr "Si besoin, demandez une étiquette  Colissimo \"retour de colis\" :"
+
+#: includes/WC-Settings-Tab-Colissimo.php:916
+msgid "Text preceding customer parcel return label request in their order view"
+msgstr ""
+"Texte dans la vue commande client, précédant le bouton demande d'étiquette "
+"pour colis retour"
+
+#: includes/WC-Settings-Tab-Colissimo.php:917
+msgid ""
+"Here, the text your customer will see in its order view to invite him to "
+"post a request to get a parcel return label. These information will be seen "
+"by the customer only if it is inside the authorized period defined below."
+msgstr ""
+"Ici, le texte que votre client verra dans sa vue de commande afin de "
+"l'inviter à poster une demande pour obtenir une étiquette retour de colis. "
+"Ces informations seront vues et accessibles par le client uniquement si "
+"elles sont à l'intérieur de la période autorisée définie ci-dessous."
+
+#: includes/WC-Settings-Tab-Colissimo.php:923
+msgid ""
+"Your Colissimo return label is available. Paste it on your parcel. After "
+"printing, you can choose the type of postal deposit you want at :"
+msgstr ""
+"Votre étiquette retour Colissimo est disponible. Collez-la sur votre colis. "
+"Après son impression, vous pouvez choisir le type de dépôt postal que vous "
+"souhaitez à :"
+
+#: includes/WC-Settings-Tab-Colissimo.php:924
+msgid "Text accompanying the parcel return label print button"
+msgstr "Texte accompagnant le bouton d'impression de l'étiquette colis retour"
+
+#: includes/WC-Settings-Tab-Colissimo.php:925
+msgid ""
+"Here, the text your customer will see to invite him to print its parcel "
+"return label."
+msgstr ""
+"Ici, le texte que votre client verra pour l'inviter à imprimer l'étiquette "
+"retour de colis qu'il a demandé."
+
+#: includes/WC-Settings-Tab-Colissimo.php:932
+msgid "Url following the text parcel return print (when necessary)"
+msgstr "Url qui suit le texte d'impression d'un retour colis (si nécessaire)"
+
+#: includes/WC-Settings-Tab-Colissimo.php:933
+msgid ""
+"Here, when necessary, the url your need to follow the parcel return print "
+"text. When blank, no url will be shown"
+msgstr ""
+"Ici, si nécessaire, l'url apparaissant après le texte pour gérer  le retour "
+"colis. Si vide, aucune URL ne sera affichée"
+
+#: includes/WC-Settings-Tab-Colissimo.php:940
+msgid ""
+"Comma separated list of 2 digits headers of Colissimo tracking codes allowed "
+"for a customer parcel return label request."
+msgstr ""
+"Liste, séparée par des virgules, des 2 chiffres d'en-tête codes de suivi "
+"Colissimo  autorisés pour une demande d'étiquette de retour de colis"
+
+#: includes/WC-Settings-Tab-Colissimo.php:941
+msgid ""
+"Here, the list of Colissimo tracking codes headers (2 digits) which are "
+"allowed for a customer parcel return label request. The  standard list can "
+"be updated for future new Colissimo products."
+msgstr ""
+"Ici, la liste des en-têtes de codes de suivi Colissimo (2 premiers "
+"caractères) qui sont autorisés pour une demande d'étiquette de retour par le "
+"client. Cette liste standard pourra être mise à jour pour les futurs "
+"nouveaux produits Colissimo. "
+
+#: includes/WC-Settings-Tab-Colissimo.php:948
+msgid ""
+"Semicolon separated list of relations \"Return-product-code=ISO-countrycode "
+"list\" to be use for parcel returns."
+msgstr ""
+"Liste, séparées par des point-virgules, des relations  \"Return-product-code "
+"= ISO-country code list\" qui doivent être utilisées pour déterminer les "
+"pays et  codes produit des retours Colissimo."
+
+#: includes/WC-Settings-Tab-Colissimo.php:949
+msgid ""
+"Here, define the Colissimo return product codes and associated countries."
+msgstr ""
+"Ici, définissez la liste des codes produit retour Colissimo et les pays "
+"associés."
+
+#: includes/WC-Settings-Tab-Colissimo.php:955
+msgid ""
+"Number of day after the order creation date+time during whitch a customer "
+"parcel return label request is permitted. Setting this number to 0 will "
+"allowed customers to use this function only on a case by case basis after "
+"the admin has changed this value for the order in the Colissimo metabox."
+msgstr ""
+"Nombre de jours suivant la date-heure de création de la commande pendant "
+"lesquels est permise une demande d'étiquette de retour de colis par la "
+"clientèle. La mise à 0  de ce nombre  donnera la permission aux clients "
+"d'utiliser cette fonction uniquement au cas par cas, après que "
+"l'administrateur ait changé cette valeur pour la commande dans la métabox "
+"Colissimo."
+
+#: includes/WC-Settings-Tab-Colissimo.php:956
+msgid ""
+"Here, the number of days you allow to your customer to retrieve and print a "
+"return parcel label. This number must not be confused which the validity "
+"period Colissimo give for a label to be deposit. The default 14 days "
+"correspond to the European regulation e-commerce for returns if you offer "
+"this facility to your customers."
+msgstr ""
+"Ici, le nombre de jours que vous accordez à votre client pour récupérer et "
+"imprimer une étiquette de retour colis . Ce nombre ne doit pas être confondu "
+"avec la période de validité donnée par Colissimo pour le dépot en Poste "
+"d'une étiquette imprimée. Si vous offrez ce service à vos clients, sachez "
+"que la valeur par défaut de 14 jours correspond à la réglementation "
+"européenne commerce électronique  pour les retours  de marchandises."
+
+#: includes/WC-Settings-Tab-Colissimo.php:962
+msgid "Name of the Company service to whitch the parcels must be returned"
+msgstr "Nom du service dans la société auquel doivent être retournés les colis"
+
+#: includes/WC-Settings-Tab-Colissimo.php:963
+msgid ""
+"Here, the name of the service in your company that must receice the returned "
+"parcel. The rest of the return address is the sender address you set in Web "
+"Service Affranchissement settings."
+msgstr ""
+"Ici, le nom du service dans votre entreprise qui doit recevoir les colis "
+"retournés. Le reste de l'adresse de retour est l'adresse expéditeur que vous "
+"avez défini dans les paramètres Web Service Affranchissement."
+
+#: includes/WC-Settings-Tab-Colissimo.php:977
+msgid "Colissimo Delivery Integration - Printing of address labels"
+msgstr "Colissimo Delivery Integration - Impression d’étiquettes adresse"
+
+#: includes/WC-Settings-Tab-Colissimo.php:985
+msgid "Page size width x height in mm"
+msgstr "Taille utile dans la page : largeur x hauteur en mm"
+
+#: includes/WC-Settings-Tab-Colissimo.php:986
+msgid ""
+"Here the size of the page in your printer. Syntax = width x height in mm (ex "
+"210x297 for a portrait A4 format)."
+msgstr ""
+"Ici, la taille utile dans la page en syntaxe largeur x hauteur en mm (ex "
+"210x297 pour un format A4 portrait). Le choix du format de la page (A4, B4, "
+"A5,B5, portrait, paysage, etc) n'est pas réalisé dans CDI, mais par le poste "
+"client lors de l'enregistrement du fichier  avant son impression. "
+
+#: includes/WC-Settings-Tab-Colissimo.php:992
+msgid "Layout of labels in the page: width  x height"
+msgstr "Disposition des étiquettes dans la page : largeur x hauteur"
+
+#: includes/WC-Settings-Tab-Colissimo.php:993
+msgid ""
+"Here, the layout of the labels in the page: nb-in-width x nb-in-height (ex "
+"3x5 which will give a total of 15 labels in the page)."
+msgstr ""
+"Ici, la disposition des étiquettes dans la page : nb-en-largeur x nb-en-"
+"hauteur(ex 3x5 qui donnera un total de 15 étiquettes dans la page)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:999
+msgid "Width of the viewing area of the address: in %"
+msgstr "Largeur de la zone de visualisation de l’adresse : en %"
+
+#: includes/WC-Settings-Tab-Colissimo.php:1000
+msgid ""
+"Here, the width of the display area of the address on the label, expressed "
+"in % of the width of the label (ex 80%)."
+msgstr ""
+"Ici, la largeur de la zone de visualisation de l’adresse sur l’étiquette, "
+"exprimée en % de la largeur de l’étiquette (ex 80%)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1006
+msgid "Address font size : in css unit"
+msgstr "Taille de la police de l’adresse : en unité css"
+
+#: includes/WC-Settings-Tab-Colissimo.php:1007
+msgid "Here, the address font size in css unit (ex 12px)."
+msgstr "Ici, la taille de la police de l’adresse en unité css (ex 12px)."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1013
+msgid "Position of the first label to be printed."
+msgstr "Position de la 1ère étiquette à imprimer."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1014
+msgid ""
+"Here, the position of the first label to be printed. This number must be "
+"between 1 and the total number of labels in the page."
+msgstr ""
+"Ici, la position de départ de la 1ère étiquette à imprimer. Ce nombre doit "
+"être compris entre 1 et le nombre d’étiquettes total dans la page."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1024
+msgid "Mode for managing the position of the first label"
+msgstr "Mode de gestion de la position de la 1ère étiquette"
+
+#: includes/WC-Settings-Tab-Colissimo.php:1025
+msgid ""
+"Here, the mode of management of the position of the 1st label. fix to always "
+"start at the same location in the pages; forward to automatically advance "
+"the position and thus allow to use all the labels of the pages."
+msgstr ""
+"Ici, le mode de gestion de la position  de la 1ère étiquette : fix pour "
+"toujours commencer au même emplacement dans les pages ; forward pour faire "
+"progresser automatiquement la position et permettre ainsi d'utiliser sans "
+"perte toutes les étiquettes des pages."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1031
+msgid "Test grid mode to help the setting of the printer"
+msgstr "Mode grille de test pour aider au cadrage de l’imprimante"
+
+#: includes/WC-Settings-Tab-Colissimo.php:1032
+msgid ""
+"Here, the test grid mode is used to assist in the setting of the printer. In "
+"this mode, the positions of the labels are delimited by a grid."
+msgstr ""
+"Ici, le mode grille de test permet d’aider au cadrage de l’imprimante. Dans "
+"ce mode l’emplacement des étiquettes est délimité par une grille."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1039
+msgid "Area specifying the layout in the sheet, in css code"
+msgstr "Zone précisant la mise en page dans la feuille, en code css"
+
+#: includes/WC-Settings-Tab-Colissimo.php:1040
+msgid ""
+"Here, the zone specifying the layout in the sheet, in css code (Ex: padding: "
+"0 !important; margin-top: 5mm !important; height:96% !important; margin-"
+"left: 12mm !important; width:99% !important;)."
+msgstr ""
+"Ici, zone précisant la mise en page dans la feuille, en code css (Ex : "
+"padding: 0 !important; margin-top: 5mm !important; height:96% !important; "
+"margin-left: 12mm !important; width:99% !important; )."
+
+#: includes/WC-Settings-Tab-Colissimo.php:1047
+msgid "Zone specifying formatting of addresses, in css  code"
+msgstr "Zone précisant la mise en forme des adresses, en code css "
+
+#: includes/WC-Settings-Tab-Colissimo.php:1048
+msgid "Here, the area specifying the formatting of the addresses, in css code."
+msgstr ""
+"Ici, la zone précisant la mise en forme des adresses, en code css. Ex pour "
+"supprimer la zone référence de l'étiquette : #printlabelref{display:none;}"
+
+#: includes/WC-colissimo-choix-livraison (save).php:145
+#: includes/WC-colissimo-choix-livraison.php:145
+msgid "Colissimo does not recognize this address. Please try again."
+msgstr "Colissimo ne reconnaît pas cette adresse. Veuillez réessayer."
+
+#: includes/WC-colissimo-choix-livraison (save).php:272
+#: includes/WC-colissimo-choix-livraison.php:272
+msgid "Select your pickup locations :"
+msgstr "Sélectionnez votre point de retrait :"
+
+#: includes/WC-colissimo-choix-livraison (save).php:277
+#: includes/WC-colissimo-choix-livraison.php:277
+msgid "Choose a location"
+msgstr "Choisissez un point de retrait"
+
+#: includes/WC-colissimo-choix-livraison (save).php:444
+#: includes/WC-colissimo-choix-livraison.php:476
+msgid "Google Maps can not geolocate this address. Please try again."
+msgstr ""
+"Google Maps ne peut pas géolocaliser cette adresse. Veuillez réessayer."
+
+#: includes/WC-colissimo-choix-livraison (save).php:586
+#: includes/WC-colissimo-choix-livraison.php:621
+msgid "You must select a pickup location. Please try again."
+msgstr "Vous devez choisir un point de retrait. Essayez de nouveau SVP."
+
+#: includes/WC-colissimo-retourcolis.php:81
+msgid "Print your Colissimo return label"
+msgstr "Imprimer"
+
+#: includes/WC-colissimo-retourcolis.php:104
+msgid "Request for a Colissimo return label"
+msgstr "Demander"
+
+#: includes/WC-colissimo-retourcolis.php:256
+#: includes/WC-colissimo-retourcolis.php:269
+msgid " ===> Return label not available - #"
+msgstr " ===> Etiquette de retour non disponible - #"
+
+#: includes/WC-colissimo-shipping-zone.php:47
+msgid "Colissimo multi purpose shipping method"
+msgstr "Colissimo - Methode universelle de livraison "
+
+#: includes/WC-colissimo-shipping-zone.php:52
+msgid "Activate this instance of \"Colissimo shipping method\""
+msgstr "Activer cet exemplaire de méthode de livraison Colissimo"
+
+#: includes/WC-colissimo-shipping-zone.php:53
+msgid "If no checked, the shipping rates will not be shown to customers."
+msgstr ""
+"Si non coché, les tarifs d'expédition ne seront pas affichés aux clients."
+
+#: includes/WC-colissimo-shipping-zone.php:57
+msgid "Title"
+msgstr "Titre"
+
+#: includes/WC-colissimo-shipping-zone.php:59
+msgid "Mandatory - Title shown in admin shipping options"
+msgstr ""
+"Obligatoire - Titre qui est vu par l'administrateur dans la \"shipping zone\""
+
+#: includes/WC-colissimo-shipping-zone.php:63
+msgid "Prefix "
+msgstr "Préfixe"
+
+#: includes/WC-colissimo-shipping-zone.php:65
+msgid "Optional - Prefix of shipping title which will be seen by customer."
+msgstr "Optionnel - Prefix du titre  de la méthode qui est vu par le client"
+
+#: includes/WC-colissimo-shipping-zone.php:69
+msgid "Default tariffs file"
+msgstr "Fichier tarifs démarrage"
+
+#: includes/WC-colissimo-shipping-zone.php:71
+msgid ""
+"Optional - Default tariffs file to overcome the example tariffs at "
+"initialisation."
+msgstr ""
+"Optionnel - Fichier des tarifs par défaut  à présenter au démarrage.  Quand "
+"le champ est à blanc, ce sont des exemples de tarifs qui sont présentés. "
+"Sinon, un nom de fichier (ex :  CDI-Colissimo-2017-France-DOM.txt) identifie "
+"un fichier de tarifs situé dans le répertoire du plugin colissimo-delivery-"
+"colissimo/uploads qui sera présenté au démarrage des réglages quand aucune "
+"ligne tarif n'existe. Attention, à chaque nouvelle version de CDI, seuls les "
+"fichiers de tarifs propres à CDI seront maintenus dans ce répertoire, vos "
+"fichiers de tarifs personnalisés devront donc être sauvegardés par ailleurs "
+"au risque sinon de les perdre."
+
+#: includes/WC-colissimo-shipping-zone.php:79
+msgid "Others:"
+msgstr "Autres:"
+
+#: includes/WC-colissimo-shipping-zone.php:81
+msgid ""
+"Tax Status. To apply or not the tax for the shipping fees when in TVA rates "
+"you have checked the shipping tick."
+msgstr ""
+"Statut fiscal. Pour appliquer ou non la TVA aux frais d'expédition lorsque  "
+"dans les écrans des taux de TVA vous avez coché la case \"livraison\"."
+
+#: includes/WC-colissimo-shipping-zone.php:85
+msgid "Taxable"
+msgstr "Taxable"
+
+#: includes/WC-colissimo-shipping-zone.php:91
+msgid "\"Excluding\" shipping class mode"
+msgstr "Mode classe de livraison \"Exclure\""
+
+#: includes/WC-colissimo-shipping-zone.php:92
+msgid "Check to have shipping class mode set to \"Excluding\" mode"
+msgstr "Cochez pour positionner à \"Exclure\" le mode classe de livraison."
+
+#: includes/WC-colissimo-shipping-zone.php:97
+msgid "\"Price all tax included\" shipping price mode"
+msgstr "Mode  \"Prix du panier toutes taxes incluses\""
+
+#: includes/WC-colissimo-shipping-zone.php:98
+msgid "Check to control cart price with all its tax included."
+msgstr "Cocher pour être en mode  \"Prix du panier toutes taxes incluses\""
+
+#: includes/WC-colissimo-shipping-zone.php:108
+msgid "including empty package weight mode"
+msgstr "comprenant le  poids du colis vide, lors des calculs. "
+
+#: includes/WC-colissimo-shipping-zone.php:109
+msgid "Check to add empty package weight when considering cart weight."
+msgstr ""
+"Cochez pour ajouter, lors des calculs, le poids du colis vide au poids des "
+"articles du panier."
+
+#: includes/WC-colissimo-shipping-zone.php:113
+msgid "Promos :"
+msgstr "Promos :"
+
+#: includes/WC-colissimo-shipping-zone.php:118
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/WC-colissimo-shipping-zone.php:119
+msgid "A valid free shipping coupon"
+msgstr "Un coupon promo valide de livraison gratuite "
+
+#: includes/WC-colissimo-shipping-zone.php:120
+msgid "A minimum order amount"
+msgstr "Un montant minimum de la commande"
+
+#: includes/WC-colissimo-shipping-zone.php:121
+msgid "A minimum order amount OR a coupon"
+msgstr "Un montant minimum de la commande OU un coupon promo valide"
+
+#: includes/WC-colissimo-shipping-zone.php:122
+msgid "A minimum order amount AND a coupon"
+msgstr "Un montant minimum de la commande ET un coupon promo valide"
+
+#: includes/WC-colissimo-shipping-zone.php:124
+msgid ""
+"Permet une activation ou non de cette instance Colissimo selon le montant du "
+"panier et le code promo actif. "
+msgstr ""
+"Permet une activation ou non de cette instance Colissimo selon le montant du "
+"panier et le code promo actif. "
+
+#: includes/WC-colissimo-shipping-zone.php:129
+msgid ""
+"Les clients devront avoir un montant de dépense supérieur à ce montant pour "
+"que cette instance Colissimo soit active (si option choisie ci-dessus)."
+msgstr ""
+"Les clients devront avoir un montant de dépense supérieur à ce montant pour "
+"que cette instance Colissimo soit active (si option choisie ci-dessus)."
+
+#: includes/WC-colissimo-shipping-zone.php:135
+msgid "\"Excluding promo\" mode"
+msgstr "Mode \"Exclusion des codes promo\""
+
+#: includes/WC-colissimo-shipping-zone.php:136
+msgid "Check to have promo mode set to \"Excluding\" mode"
+msgstr "Cochez pour être en mode \"Exclusion\" sur les coupons promo"
+
+#: includes/WC-colissimo-shipping-zone.php:298
+msgid "This file does not exist in colissimo-delivery-integration/uploads : "
+msgstr "Ce fichier n'existe pas dans colissimo-delivery-integration/uploads : "
+
+#: includes/WC-colissimo-shipping-zone.php:305
+#: includes/WC-colissimo-shipping-zone.php:317
+msgid "This file in colissimo-delivery-integration/uploads is not valid : "
+msgstr ""
+"Ce fichier dans colissimo-delivery-integration/uploads n'est pas valide : "
+
+#: includes/WC-colissimo-shipping-zone.php:641
+msgid "Name"
+msgstr "Titre"
+
+#: includes/WC-colissimo-shipping-zone.php:642
+msgid "Name seen by the customer"
+msgstr "Titre de la livraison que verra le client"
+
+#: includes/WC-colissimo-shipping-zone.php:644
+msgid "Flat rate"
+msgstr " Fixe"
+
+#: includes/WC-colissimo-shipping-zone.php:645
+msgid "Flat rate VAT excluded"
+msgstr "Partie fixe du prix, TVA exclue"
+
+#: includes/WC-colissimo-shipping-zone.php:647
+msgid "Add fees"
+msgstr "Variable"
+
+#: includes/WC-colissimo-shipping-zone.php:648
+msgid ""
+"Comma separated list of additionnal fees, VAT excluded, to add to flat rate. "
+"Percentage of price and/or weight(kg) fee. Syntaxe : p=+2.5%, w=+5 . May "
+"also be a short php code trigger under create_function"
+msgstr ""
+"Part variable, TVA exclue, à ajouter au prix fixe : \n"
+"- Utilisez de préférence une séquence php : une courte ligne de code PHP "
+"exécutable sous eval, encadrée par <?php et ?> (Voir les exemples donnés en "
+"fin du fichier WC-filter-examples.php. Ex <?php $return = "
+"(float)$woocommerce->cart->cart_contents_total*0.01; ?>).\n"
+"- Accessoirement vous pouvez utiliser une liste (séparés par des virgules) "
+"du pourcentage du prix du panier et/ou tarif par kg (Syntaxe : p=+2.5%, w="
+"+5). "
+
+#: includes/WC-colissimo-shipping-zone.php:650
+msgid "Shipping class"
+msgstr "Classes"
+
+#: includes/WC-colissimo-shipping-zone.php:651
+msgid ""
+"In standard mode,  to activate this rate, an item at least in your cart must "
+"have one of the shipping classes. If your have checked the Exclude tick, "
+"this rate will activate if none of your items in your cart have none of the "
+"shipping classes. Multi select classes allowed."
+msgstr ""
+"En mode classique, pour activer un tarif, un article au moins dans votre "
+"panier doit avoir une des classes de livraison sélectionnées. Si par contre "
+"vous avez coché le mode classe de livraison Exclure plus bas, le tarif ne "
+"sera activé que si aucun de vos articles dans votre panier n'a une classe de "
+"livraison parmi celles sélectionnées. Possibilité de multiples sélections de "
+"classes."
+
+#: includes/WC-colissimo-shipping-zone.php:653
+msgid "Method"
+msgstr "Term id"
+
+#: includes/WC-colissimo-shipping-zone.php:654
+msgid "End of CDI method id"
+msgstr ""
+"Terminaison  de  l'id de la methode CDI.\n"
+"Une méthode de livraison Colissimo a toujours un id de la forme  "
+"colissimo_shippingzone_method_endid:numinstance , endid  étant la "
+"terminaison de l'id à votre choix (ex : home1, home2, ... pick1,..., pick5, "
+"shop1, ..., shop5)."
+
+#: includes/WC-colissimo-shipping-zone.php:656
+msgid "Min price"
+msgstr "Prix mini"
+
+#: includes/WC-colissimo-shipping-zone.php:657
+msgid "minimum price, VAT excluded. All taxes included if the mode is checked."
+msgstr ""
+"Prix minimum, TVA exclue. Toutes les taxes incluses si le mode est coché."
+
+#: includes/WC-colissimo-shipping-zone.php:659
+msgid "Max price"
+msgstr "Prix maxi"
+
+#: includes/WC-colissimo-shipping-zone.php:660
+msgid "maximum price, VAT excluded. All taxes included if the mode is checked."
+msgstr ""
+"Prix maximum, TVA exclue. Toutes les taxes incluses si le mode est coché."
+
+#: includes/WC-colissimo-shipping-zone.php:662
+msgid "Min weight"
+msgstr "Poids mini"
+
+#: includes/WC-colissimo-shipping-zone.php:663
+msgid "minimum weight in g"
+msgstr "Poids mimimum du panier en g"
+
+#: includes/WC-colissimo-shipping-zone.php:665
+msgid "Max weight"
+msgstr "Poids maxi"
+
+#: includes/WC-colissimo-shipping-zone.php:666
+msgid "maximum weight in g"
+msgstr "Poids maximum du panier en g"
+
+#: includes/WC-colissimo-shipping-zone.php:678
+msgid "Rates"
+msgstr "Tarifs"
+
+#: includes/WC-colissimo-shipping-zone.php:692
+msgid "Add rate"
+msgstr "Ajouter une ligne de tarif"
+
+#: includes/WC-colissimo-shipping-zone.php:693
+msgid "Delete selected"
+msgstr "Supprimer les lignes sélectionnées"
+
+#: includes/WC-colissimo-shipping-zone.php:697
+msgid "If empty table is saved, examples of methods are shown."
+msgstr ""
+"Quand la table enregistrée est vide, des exemples de tarifs de livraison "
+"vous sont proposés pour vous inspirer (ou vos tarifs de  démarrage si "
+"renseigné) . "
+
+#: includes/WC-colissimo-shipping-zone.php:828
+msgid "Delete the selected rates?"
+msgstr "Suppression des tarifs sélectionnés ?"
+
+#: includes/WC-function-Colissimo.php:26
+msgid ""
+"Your last order(s) completed has no Colissimo tracking code. You can add a "
+"tracking code and send again order completed mail."
+msgstr ""
+"Vos dernières commandes terminées  n'ont pas de code de suivi Colissimo. "
+"Vous pouvez toutefois ajouter un code de suivi par la passerelle et renvoyer "
+"à nouveaule mail au client."
+
+#: includes/WC-gateway-colissimo-auto.php:289
+#: includes/WC-gateway-colissimo-auto.php:302
+msgid " ===> Error stop processing at order #"
+msgstr " ===> Erreur arrêt du traitement à l'ordre  #"
+
+#: includes/WC-gateway-colissimo-auto.php:309
+msgid " parcels processed with Colissimo Web Service."
+msgstr " colis traités par le Web Service d’affranchissement Colissimo."
+
+#: includes/WC-gateway-colissimo-coliship.php:250
+#: includes/WC-gateway-colissimo-online.php:189
+msgid "Here we are !"
+msgstr "Nous sommes  arrivés !"
+
+#: includes/WC-gateway-colissimo-coliship.php:250
+#: includes/WC-gateway-colissimo-online.php:189
+msgid ""
+"No scripting error? So now you can check and / or change your shipments."
+msgstr ""
+"Aucune erreur de script ?  Parfait. Alors vérifiez les paramètres des colis "
+"à envoyer et éventuellement modifiez les."
+
+#: includes/WC-gateway-colissimo-coliship.php:250
+msgid "As soon as everything is ok, you can print your labels."
+msgstr "Si tout est correct, alors vous pouvez imprimer vos étiquettes."
+
+#: includes/WC-gateway-colissimo-coliship.php:258
+#: includes/WC-gateway-colissimo-online.php:197
+msgid " parcels inserted in iMacros script file."
+msgstr " colis insérés dans le fichier script iMacros."
+
+#: includes/WC-gateway-colissimo-colishipinet.php:230
+msgid " parcels inserted in Coliship Import file."
+msgstr " colis insérés dans le fichier importation pour Coliship."
+
+#: includes/WC-gateway-colissimo-custom.php:58
+msgid " parcels processed ; "
+msgstr " colis traités ;"
+
+#: includes/WC-gateway-colissimo-custom.php:58
+msgid " tracking codes updated."
+msgstr "  lignes de suivi mises à jour dans la passerelle."
+
+#: includes/WC-gateway-colissimo-manual.php:79
+msgid " parcels inserted in csv file."
+msgstr " colis insérés dans le fichier csv."
+
+#: includes/WC-gateway-colissimo-online.php:189
+msgid "As soon as everything is ok, then go to the Colissimo checkout."
+msgstr ""
+"Quand vous considérez que tout est correct, poursuivez pour passer votre "
+"commande à Colissimo. "
+
+#: includes/WC-gateway-colissimo-printlabel.php:66
+msgid "Printing Adress Labels"
+msgstr "Impression d'étiquettes adresse"
+
+#: includes/WC-gateway-colissimo-printlabel.php:167
+msgid " address labels have been created."
+msgstr " étiquettes adresse ont été produites."
+
+#~ msgid "Web Service - Output Format - Printing Type"
+#~ msgstr "Web Service - Format de sortie - Type d'impression"
+
+#~ msgid "Custumer Note"
+#~ msgstr "Note du client"
+
+#~ msgid "Note client"
+#~ msgstr "Note client"
+
+#~ msgid "Test de CDI. Allez, on recommence !!!!!!!!."
+#~ msgstr "Test de CDI. Allez, on recommence !!!!!!!!."
+
+#~ msgid "CDI+ connecté"
+#~ msgstr "CDI+ Connecté"
+
+#~ msgid "Information CDI+"
+#~ msgstr "Information CDI+"
